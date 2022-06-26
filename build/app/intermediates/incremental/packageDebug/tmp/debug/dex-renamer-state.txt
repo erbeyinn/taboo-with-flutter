@@ -1,0 +1,4 @@
+#Mon Dec 13 14:48:51 TRT 2021
+base.0=/Users/eyuperbeyin/AndroidStudioProjects/tabooo/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

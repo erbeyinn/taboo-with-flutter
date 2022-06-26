@@ -1,0 +1,5861 @@
+{
+  "items" : [
+      {
+        "soru": {
+          "latince": "ŞİRK",
+          "osmanlica": "شرك"
+        },
+        "yasaklilar": [
+          {
+            "latince": "ALLAH",
+            "osmanlica": "اللّٰه"
+          },
+          {
+            "latince": "ORTAK KOŞMA",
+            "osmanlica": "اورتاق قوشما"
+          },
+          {
+            "latince": "PUT",
+            "osmanlica": "پوت"
+          },
+          {
+            "latince": "BÜYÜK GÜNAH",
+            "osmanlica": "بویوك كناه"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "SADAKA",
+          "osmanlica": "صدقه"
+        },
+        "yasaklilar": [
+          {
+            "latince": "YARDIM",
+            "osmanlica": "یاردیم"
+          },
+          {
+            "latince": "PARA",
+            "osmanlica": "پاره"
+          },
+          {
+            "latince": "İHTİYAÇ SAHİBİ",
+            "osmanlica": "احتیاج صاحبی"
+          },
+          {
+            "latince": "VERMEK",
+            "osmanlica": "ویرمك"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "REZZAK",
+          "osmanlica": "رزّاق"
+        },
+        "yasaklilar": [
+          {
+            "latince": "RIZIK",
+            "osmanlica": "رزق"
+          },
+          {
+            "latince": "MÜLK",
+            "osmanlica": "ملك"
+          },
+          {
+            "latince": "NİMET",
+            "osmanlica": "نعمت"
+          },
+          {
+            "latince": "YİYECEK",
+            "osmanlica": "ییه جك"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "AZİM",
+          "osmanlica": "عظیم"
+        },
+        "yasaklilar": [
+          {
+            "latince": "YÜCE",
+            "osmanlica": "یوجه"
+          },
+          {
+            "latince": "BÜYÜK",
+            "osmanlica": "بویوك"
+          },
+          {
+            "latince": "BENZERSİZ",
+            "osmanlica": "بڭزرسز"
+          },
+          {
+            "latince": "ÜSTÜN",
+            "osmanlica": "أوستون"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "TEKBİR",
+          "osmanlica": "تكبیر"
+        },
+        "yasaklilar": [
+          {
+            "latince": "KELİME",
+            "osmanlica": "كلمه"
+          },
+          {
+            "latince": "LA",
+            "osmanlica": "لا"
+          },
+          {
+            "latince": "EYLEM",
+            "osmanlica": "ایلم"
+          },
+          {
+            "latince": "ALLAHU EKBER",
+            "osmanlica": "اللّٰه اكبر"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "RUH",
+          "osmanlica": "روح"
+        },
+        "yasaklilar": [
+          {
+            "latince": "İNSAN",
+            "osmanlica": "انسان"
+          },
+          {
+            "latince": "SOYUT",
+            "osmanlica": "صویوت"
+          },
+          {
+            "latince": "MANEVİ",
+            "osmanlica": "معنوی"
+          },
+          {
+            "latince": "KUTSAL",
+            "osmanlica": "قوتسال"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "MELEK",
+          "osmanlica": "ملك"
+        },
+        "yasaklilar": [
+          {
+            "latince": "CEBRAİL",
+            "osmanlica": "جبرائیل"
+          },
+          {
+            "latince": "AZRAİL",
+            "osmanlica": "عزرائیل"
+          },
+          {
+            "latince": "MİKAİL",
+            "osmanlica": "میكائیل"
+          },
+          {
+            "latince": "İSRAFİL",
+            "osmanlica": "اسرافیل"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "MÜSLÜMAN",
+          "osmanlica": "مسلمان"
+        },
+        "yasaklilar": [
+          {
+            "latince": "ALLAHA İNANAN",
+            "osmanlica": "اللّٰهه اینانان"
+          },
+          {
+            "latince": "CENNET",
+            "osmanlica": "جنّت"
+          },
+          {
+            "latince": "İYİLİK",
+            "osmanlica": "اییلك"
+          },
+          {
+            "latince": "SEVAP",
+            "osmanlica": "ثواب"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "GÜZEL AHLAK",
+          "osmanlica": "كوزل اخلاق"
+        },
+        "yasaklilar": [
+          {
+            "latince": "İYİLİK",
+            "osmanlica": "اییلك"
+          },
+          {
+            "latince": "İSLAM EMRİ",
+            "osmanlica": "اسلام أمری"
+          },
+          {
+            "latince": "MUHAMMED",
+            "osmanlica": "محمّد"
+          },
+          {
+            "latince": "PEYGAMBER",
+            "osmanlica": "پیغمبر"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "HİDAYET",
+          "osmanlica": "هدایت"
+        },
+        "yasaklilar": [
+          {
+            "latince": "DOĞRU YOL",
+            "osmanlica": "طوغری یول"
+          },
+          {
+            "latince": "İSLAM",
+            "osmanlica": "اسلام"
+          },
+          {
+            "latince": "MÜSLÜMANLAR",
+            "osmanlica": "مسلمانلر"
+          },
+          {
+            "latince": "CENNETLİK",
+            "osmanlica": "جنّتلك"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "SELAM",
+          "osmanlica": "سلام"
+        },
+        "yasaklilar": [
+          {
+            "latince": "KARŞILAŞMAK",
+            "osmanlica": "قارشیلاشمق"
+          },
+          {
+            "latince": "SÜNNET",
+            "osmanlica": "سنّت"
+          },
+          {
+            "latince": "VERMEK",
+            "osmanlica": "ویرمك"
+          },
+          {
+            "latince": "İKİ KİŞİ",
+            "osmanlica": "ایكی كیشی"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "HAC",
+          "osmanlica": "حاج"
+        },
+        "yasaklilar": [
+          {
+            "latince": "KABE",
+            "osmanlica": "كعبه"
+          },
+          {
+            "latince": "MEKKE",
+            "osmanlica": "مكّه"
+          },
+          {
+            "latince": "TAVAF",
+            "osmanlica": "طواف"
+          },
+          {
+            "latince": "İHRAM",
+            "osmanlica": "احرام"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "ORUÇ TUTMAK",
+          "osmanlica": "اوروچ طوتمق"
+        },
+        "yasaklilar": [
+          {
+            "latince": "SAHUR",
+            "osmanlica": "سحور"
+          },
+          {
+            "latince": "İFTAR",
+            "osmanlica": "افطار"
+          },
+          {
+            "latince": "AÇLIK",
+            "osmanlica": "آچلق"
+          },
+          {
+            "latince": "İMSAK",
+            "osmanlica": "امساك"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "DİN",
+          "osmanlica": "دین"
+        },
+        "yasaklilar": [
+          {
+            "latince": "İNANÇ",
+            "osmanlica": "اینانچ"
+          },
+          {
+            "latince": "AKIL",
+            "osmanlica": "عقل"
+          },
+          {
+            "latince": "İMAN",
+            "osmanlica": "ایمان"
+          },
+          {
+            "latince": "İSLAM",
+            "osmanlica": "اسلام"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "RAMAZAN",
+          "osmanlica": "رمضان"
+        },
+        "yasaklilar": [
+          {
+            "latince": "HİLAL",
+            "osmanlica": "هلال"
+          },
+          {
+            "latince": "ORUÇ",
+            "osmanlica": "اوروچ"
+          },
+          {
+            "latince": "İFTAR",
+            "osmanlica": "افطار"
+          },
+          {
+            "latince": "SAHUR",
+            "osmanlica": "سحور"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "SAHUR",
+          "osmanlica": "سحور"
+        },
+        "yasaklilar": [
+          {
+            "latince": "GECE",
+            "osmanlica": "كیجه"
+          },
+          {
+            "latince": "İMSAK",
+            "osmanlica": "امساك"
+          },
+          {
+            "latince": "RAMAZAN",
+            "osmanlica": "رمضان"
+          },
+          {
+            "latince": "YEMEK",
+            "osmanlica": "ییمك"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "İFTAR",
+          "osmanlica": "افطار"
+        },
+        "yasaklilar": [
+          {
+            "latince": "YEMEK",
+            "osmanlica": "ییمك"
+          },
+          {
+            "latince": "SAHUR",
+            "osmanlica": "سحور"
+          },
+          {
+            "latince": "ORUÇ",
+            "osmanlica": "اوروچ"
+          },
+          {
+            "latince": "AKŞAM EZANI",
+            "osmanlica": "آقشام أذانی"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "ABDEST",
+          "osmanlica": "آبدست"
+        },
+        "yasaklilar": [
+          {
+            "latince": "NAMAZ",
+            "osmanlica": "نماز"
+          },
+          {
+            "latince": "ALMAK",
+            "osmanlica": "آلمق"
+          },
+          {
+            "latince": "SU",
+            "osmanlica": "صو"
+          },
+          {
+            "latince": "ŞADIRVAN",
+            "osmanlica": "شادروان"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "ŞADIRVAN",
+          "osmanlica": "شادروان"
+        },
+        "yasaklilar": [
+          {
+            "latince": "AVLU",
+            "osmanlica": "آولی"
+          },
+          {
+            "latince": "ABDEST",
+            "osmanlica": "آبدست"
+          },
+          {
+            "latince": "SU",
+            "osmanlica": "صو"
+          },
+          {
+            "latince": "NAMAZ",
+            "osmanlica": "نماز"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "UMRE",
+          "osmanlica": "عمره"
+        },
+        "yasaklilar": [
+          {
+            "latince": "HAC",
+            "osmanlica": "حاج"
+          },
+          {
+            "latince": "TAVAF",
+            "osmanlica": "طواف"
+          },
+          {
+            "latince": "MEKKE",
+            "osmanlica": "مكّه"
+          },
+          {
+            "latince": "MEDİNE",
+            "osmanlica": "مدینه"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "İSLAM",
+          "osmanlica": "اسلام"
+        },
+        "yasaklilar": [
+          {
+            "latince": "YAHUDİLİK",
+            "osmanlica": "یهودیلك"
+          },
+          {
+            "latince": "PUTPERESTLİK",
+            "osmanlica": "پوتپرستلك"
+          },
+          {
+            "latince": "MÜSLÜMANLIK",
+            "osmanlica": "مسلمانلق"
+          },
+          {
+            "latince": "HRİSTİYANLIK",
+            "osmanlica": "خریستییانلق"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "HARAM",
+          "osmanlica": "حرام"
+        },
+        "yasaklilar": [
+          {
+            "latince": "KUMAR",
+            "osmanlica": "قمار"
+          },
+          {
+            "latince": "YASAK",
+            "osmanlica": "یاساق"
+          },
+          {
+            "latince": "İÇKİ",
+            "osmanlica": "ایچكی"
+          },
+          {
+            "latince": "HELAL",
+            "osmanlica": "حلال"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "CAMİ",
+          "osmanlica": "جامع"
+        },
+        "yasaklilar": [
+          {
+            "latince": "EZAN",
+            "osmanlica": "اذان"
+          },
+          {
+            "latince": "NAMAZ KILMAK",
+            "osmanlica": "نماز قیلمق"
+          },
+          {
+            "latince": "MÜEZZİN",
+            "osmanlica": "مؤذّن"
+          },
+          {
+            "latince": "İMAM",
+            "osmanlica": "امام"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "AHİRET",
+          "osmanlica": "آخرت"
+        },
+        "yasaklilar": [
+          {
+            "latince": "CENNET",
+            "osmanlica": "جنّت"
+          },
+          {
+            "latince": "CEHENNEM",
+            "osmanlica": "جهنّم"
+          },
+          {
+            "latince": "ÖLÜM",
+            "osmanlica": "أولوم"
+          },
+          {
+            "latince": "MAHŞER",
+            "osmanlica": "محشر"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "REYYAN",
+          "osmanlica": "ریّان"
+        },
+        "yasaklilar": [
+          {
+            "latince": "CENNET KAPISI",
+            "osmanlica": "جنّت قاپوسی"
+          },
+          {
+            "latince": "ORUÇ",
+            "osmanlica": "اوروچ"
+          },
+          {
+            "latince": "AÇ KALMAK",
+            "osmanlica": "آچ قالمق"
+          },
+          {
+            "latince": "RAMAZAN",
+            "osmanlica": "رمضان"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "TESBİH",
+          "osmanlica": "تسبیح"
+        },
+        "yasaklilar": [
+          {
+            "latince": "TANE",
+            "osmanlica": "دانه"
+          },
+          {
+            "latince": "ÇEKMEK",
+            "osmanlica": "چكمك"
+          },
+          {
+            "latince": "ZİKİR",
+            "osmanlica": "ذكر"
+          },
+          {
+            "latince": "BONCUK",
+            "osmanlica": "بونجوق"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "DUA",
+          "osmanlica": "دعا"
+        },
+        "yasaklilar": [
+          {
+            "latince": "İSTEMEK",
+            "osmanlica": "ایسته مك"
+          },
+          {
+            "latince": "EL AÇMAK",
+            "osmanlica": "ال آچمق"
+          },
+          {
+            "latince": "YAKARMAK",
+            "osmanlica": "یاقارمق"
+          },
+          {
+            "latince": "DİLEMEK",
+            "osmanlica": "دیله مك"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "HARAM",
+          "osmanlica": "حرام"
+        },
+        "yasaklilar": [
+          {
+            "latince": "ALLAH",
+            "osmanlica": "اللّٰه"
+          },
+          {
+            "latince": "YASAK",
+            "osmanlica": "یاساق"
+          },
+          {
+            "latince": "GÜNAH",
+            "osmanlica": "كناه"
+          },
+          {
+            "latince": "İÇKİ",
+            "osmanlica": "ایچكی"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "YESRİB",
+          "osmanlica": "یثرب"
+        },
+        "yasaklilar": [
+          {
+            "latince": "MEDİNE",
+            "osmanlica": "مدینه"
+          },
+          {
+            "latince": "HİCRET",
+            "osmanlica": "هجرت"
+          },
+          {
+            "latince": "ŞEHİR",
+            "osmanlica": "شهر"
+          },
+          {
+            "latince": "PEYGAMBER",
+            "osmanlica": "پیغمبر"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "SİYER",
+          "osmanlica": "سیر"
+        },
+        "yasaklilar": [
+          {
+            "latince": "PEYGAMBER HAYATI",
+            "osmanlica": "پیغمبر حیاتی"
+          },
+          {
+            "latince": "NEBİ",
+            "osmanlica": "نبی"
+          },
+          {
+            "latince": "DERS",
+            "osmanlica": "درس"
+          },
+          {
+            "latince": "FIKIH",
+            "osmanlica": "فقه"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "NECASET",
+          "osmanlica": "نجاست"
+        },
+        "yasaklilar": [
+          {
+            "latince": "TAHARET",
+            "osmanlica": "طهارت"
+          },
+          {
+            "latince": "ABDEST",
+            "osmanlica": "آبدست"
+          },
+          {
+            "latince": "TEMİZLİK",
+            "osmanlica": "تمیزلك"
+          },
+          {
+            "latince": "FIKIH",
+            "osmanlica": "فقه"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "İBADET",
+          "osmanlica": "عبادت"
+        },
+        "yasaklilar": [
+          {
+            "latince": "NAMAZ",
+            "osmanlica": "نماز"
+          },
+          {
+            "latince": "ORUÇ",
+            "osmanlica": "اوروچ"
+          },
+          {
+            "latince": "CAMİ",
+            "osmanlica": "جامع"
+          },
+          {
+            "latince": "DUA",
+            "osmanlica": "دعا"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "HUTBE",
+          "osmanlica": "خطبه"
+        },
+        "yasaklilar": [
+          {
+            "latince": "CUMA",
+            "osmanlica": "جمعه"
+          },
+          {
+            "latince": "CAMİ",
+            "osmanlica": "جامع"
+          },
+          {
+            "latince": "İMAM",
+            "osmanlica": "امام"
+          },
+          {
+            "latince": "HATİP",
+            "osmanlica": "خطیب"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "MEVLANA",
+          "osmanlica": "مولانا"
+        },
+        "yasaklilar": [
+          {
+            "latince": "KONYA",
+            "osmanlica": "قونیه"
+          },
+          {
+            "latince": "HOŞGÖRÜ",
+            "osmanlica": "خوش گورو"
+          },
+          {
+            "latince": "MESNEVİ",
+            "osmanlica": "مثنوی"
+          },
+          {
+            "latince": "TÜRBE",
+            "osmanlica": "تربه"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "BEDİÜZZAMAN",
+          "osmanlica": "بدیع الزمان"
+        },
+        "yasaklilar": [
+          {
+            "latince": "ISPARTA",
+            "osmanlica": "اسپارطه"
+          },
+          {
+            "latince": "RİSALE",
+            "osmanlica": "رساله"
+          },
+          {
+            "latince": "ZİNDAN",
+            "osmanlica": "زندان"
+          },
+          {
+            "latince": "İŞKENCE",
+            "osmanlica": "اشكنجه"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "CEBRAİL",
+          "osmanlica": "جبرائیل"
+        },
+        "yasaklilar": [
+          {
+            "latince": "MELEK",
+            "osmanlica": "ملك"
+          },
+          {
+            "latince": "VAHİY",
+            "osmanlica": "وحی"
+          },
+          {
+            "latince": "AZRAİL",
+            "osmanlica": "عزرائیل"
+          },
+          {
+            "latince": "MİKAİL",
+            "osmanlica": "میكائیل"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "KIYAM",
+          "osmanlica": "قیام"
+        },
+        "yasaklilar": [
+          {
+            "latince": "AYAK",
+            "osmanlica": "آیاق"
+          },
+          {
+            "latince": "DURMAK",
+            "osmanlica": "طورمق"
+          },
+          {
+            "latince": "DÜZ",
+            "osmanlica": "دوز"
+          },
+          {
+            "latince": "NAMAZ",
+            "osmanlica": "نماز"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "MUHACİR",
+          "osmanlica": "مهاجر"
+        },
+        "yasaklilar": [
+          {
+            "latince": "MEKKE",
+            "osmanlica": "مكّه"
+          },
+          {
+            "latince": "MEDİNE",
+            "osmanlica": "مدینه"
+          },
+          {
+            "latince": "HİCRET",
+            "osmanlica": "هجرت"
+          },
+          {
+            "latince": "ENSAR",
+            "osmanlica": "انصار"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "PUT",
+          "osmanlica": "پوت"
+        },
+        "yasaklilar": [
+          {
+            "latince": "TAŞ",
+            "osmanlica": "طاش"
+          },
+          {
+            "latince": "HEYKEL",
+            "osmanlica": "هیكل"
+          },
+          {
+            "latince": "HELVA",
+            "osmanlica": "حلوا"
+          },
+          {
+            "latince": "TAPMAK",
+            "osmanlica": "طاپمق"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "PEYGAMBER",
+          "osmanlica": "پیغمبر"
+        },
+        "yasaklilar": [
+          {
+            "latince": "RASUL",
+            "osmanlica": "رسول"
+          },
+          {
+            "latince": "NEBİ",
+            "osmanlica": "نبی"
+          },
+          {
+            "latince": "ELÇİ",
+            "osmanlica": "ایلچی"
+          },
+          {
+            "latince": "VAHİY",
+            "osmanlica": "وحی"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "PUT",
+          "osmanlica": "پوت"
+        },
+        "yasaklilar": [
+          {
+            "latince": "TAŞ",
+            "osmanlica": "طاش"
+          },
+          {
+            "latince": "HEYKEL",
+            "osmanlica": "هیكل"
+          },
+          {
+            "latince": "HELVA",
+            "osmanlica": "حلوا"
+          },
+          {
+            "latince": "TAPMAK",
+            "osmanlica": "طاپمق"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "BESMELE",
+          "osmanlica": "بسمله"
+        },
+        "yasaklilar": [
+          {
+            "latince": "BAŞLAMAK",
+            "osmanlica": "باشلامق"
+          },
+          {
+            "latince": "RAHMAN",
+            "osmanlica": "رحمن"
+          },
+          {
+            "latince": "RAHİM",
+            "osmanlica": "راحم"
+          },
+          {
+            "latince": "KURAN",
+            "osmanlica": "قوران"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "İNCİL",
+          "osmanlica": "انجیل"
+        },
+        "yasaklilar": [
+          {
+            "latince": "İSA PEYGAMBER",
+            "osmanlica": "عیسی پیغمبر"
+          },
+          {
+            "latince": "HRİSTİYANLIK",
+            "osmanlica": "خریستییانلق"
+          },
+          {
+            "latince": "KUTSAL",
+            "osmanlica": "قوتسال"
+          },
+          {
+            "latince": "KİTAP",
+            "osmanlica": "كتاب"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "KURAN-I KERİM",
+          "osmanlica": "قرآن كریم"
+        },
+        "yasaklilar": [
+          {
+            "latince": "KİTAP",
+            "osmanlica": "كتاب"
+          },
+          {
+            "latince": "İSLAM",
+            "osmanlica": "اسلام"
+          },
+          {
+            "latince": "MUHAMMED",
+            "osmanlica": "محمّد"
+          },
+          {
+            "latince": "VAHİY",
+            "osmanlica": "وحی"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "SADAKA",
+          "osmanlica": "صدقه"
+        },
+        "yasaklilar": [
+          {
+            "latince": "YARDIM",
+            "osmanlica": "یاردیم"
+          },
+          {
+            "latince": "PARA",
+            "osmanlica": "پاره"
+          },
+          {
+            "latince": "İHTİYAÇ SAHİBİ",
+            "osmanlica": "احتیاج صاحبی"
+          },
+          {
+            "latince": "VERMEK",
+            "osmanlica": "ویرمك"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "HAC",
+          "osmanlica": "حاج"
+        },
+        "yasaklilar": [
+          {
+            "latince": "KABE",
+            "osmanlica": "كعبه"
+          },
+          {
+            "latince": "MEKKE",
+            "osmanlica": "مكّه"
+          },
+          {
+            "latince": "TAVAF",
+            "osmanlica": "طواف"
+          },
+          {
+            "latince": "İHRAM",
+            "osmanlica": "احرام"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "AHİRET",
+          "osmanlica": "آخرت"
+        },
+        "yasaklilar": [
+          {
+            "latince": "CENNET",
+            "osmanlica": "جنّت"
+          },
+          {
+            "latince": "CEHENNEM",
+            "osmanlica": "جهنّم"
+          },
+          {
+            "latince": "ÖLÜM",
+            "osmanlica": "أولوم"
+          },
+          {
+            "latince": "MAHŞER",
+            "osmanlica": "محشر"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "İBADET",
+          "osmanlica": "عبادت"
+        },
+        "yasaklilar": [
+          {
+            "latince": "NAMAZ",
+            "osmanlica": "نماز"
+          },
+          {
+            "latince": "ORUÇ",
+            "osmanlica": "اوروچ"
+          },
+          {
+            "latince": "CAMİ",
+            "osmanlica": "جامع"
+          },
+          {
+            "latince": "DUA",
+            "osmanlica": "دعا"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "BESMELE",
+          "osmanlica": "بسمله"
+        },
+        "yasaklilar": [
+          {
+            "latince": "BAŞLAMAK",
+            "osmanlica": "باشلامق"
+          },
+          {
+            "latince": "RAHMAN",
+            "osmanlica": "رحمن"
+          },
+          {
+            "latince": "RAHİM",
+            "osmanlica": "راحم"
+          },
+          {
+            "latince": "KURAN",
+            "osmanlica": "قوران"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "SÜNNET",
+          "osmanlica": "سنّت"
+        },
+        "yasaklilar": [
+          {
+            "latince": "HADİS",
+            "osmanlica": "حادث"
+          },
+          {
+            "latince": "SEVAB",
+            "osmanlica": "ثواب"
+          },
+          {
+            "latince": "GÜZEL AHLAK",
+            "osmanlica": "كوزل اخلاق"
+          },
+          {
+            "latince": "PEYGAMBERİMİZ",
+            "osmanlica": "پیغمبریمز"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "MİSVAK",
+          "osmanlica": "مسواك"
+        },
+        "yasaklilar": [
+          {
+            "latince": "DİŞ",
+            "osmanlica": "دیش"
+          },
+          {
+            "latince": "FIRÇA",
+            "osmanlica": "فیرچه"
+          },
+          {
+            "latince": "SÜNNET",
+            "osmanlica": "سنّت"
+          },
+          {
+            "latince": "TEMİZLİK",
+            "osmanlica": "تمیزلك"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "NASİHAT",
+          "osmanlica": "نصیحت"
+        },
+        "yasaklilar": [
+          {
+            "latince": "DİN",
+            "osmanlica": "دین"
+          },
+          {
+            "latince": "ÖĞÜT",
+            "osmanlica": "أوگوت"
+          },
+          {
+            "latince": "UYARI",
+            "osmanlica": "اویاری"
+          },
+          {
+            "latince": "MESAJ",
+            "osmanlica": "مساژ"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "SÜNNET",
+          "osmanlica": "سنّت"
+        },
+        "yasaklilar": [
+          {
+            "latince": "HADİS",
+            "osmanlica": "حادث"
+          },
+          {
+            "latince": "SEVAB",
+            "osmanlica": "ثواب"
+          },
+          {
+            "latince": "GÜZEL AHLAK",
+            "osmanlica": "كوزل اخلاق"
+          },
+          {
+            "latince": "PEYGAMBERİMİZ",
+            "osmanlica": "پیغمبریمز"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "TESETTÜR",
+          "osmanlica": "تستّر"
+        },
+        "yasaklilar": [
+          {
+            "latince": "BAŞÖRTÜSÜ",
+            "osmanlica": "باش أورتوسی"
+          },
+          {
+            "latince": "DIŞARI KIYAFETİ",
+            "osmanlica": "طیشاری قیافتی"
+          },
+          {
+            "latince": "KAPANMAK",
+            "osmanlica": "قاپانمق"
+          },
+          {
+            "latince": "FERACE",
+            "osmanlica": "فراجه"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "MİSVAK",
+          "osmanlica": "مسواك"
+        },
+        "yasaklilar": [
+          {
+            "latince": "DİŞ",
+            "osmanlica": "دیش"
+          },
+          {
+            "latince": "FIRÇA",
+            "osmanlica": "فیرچه"
+          },
+          {
+            "latince": "SÜNNET",
+            "osmanlica": "سنّت"
+          },
+          {
+            "latince": "TEMİZLİK",
+            "osmanlica": "تمیزلك"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "ADALETLİ",
+          "osmanlica": "عدالتلی"
+        },
+        "yasaklilar": [
+          {
+            "latince": "HALİFE ÖMER",
+            "osmanlica": "خلیفه عمر"
+          },
+          {
+            "latince": "İSLAM",
+            "osmanlica": "اسلام"
+          },
+          {
+            "latince": "ALLAH",
+            "osmanlica": "اللّٰه"
+          },
+          {
+            "latince": "ÖZELLİK",
+            "osmanlica": "أوزللك"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "FİL VAKASI",
+          "osmanlica": "فیل وقعه سی"
+        },
+        "yasaklilar": [
+          {
+            "latince": "EBREHE",
+            "osmanlica": "ابرهه"
+          },
+          {
+            "latince": "KABE",
+            "osmanlica": "كعبه"
+          },
+          {
+            "latince": "FİL",
+            "osmanlica": "فیل"
+          },
+          {
+            "latince": "EBABİL",
+            "osmanlica": "ابابیل"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "PUTPERESTLİK",
+          "osmanlica": "پوتپرستلك"
+        },
+        "yasaklilar": [
+          {
+            "latince": "CAHİLİYE",
+            "osmanlica": "جاهلیه"
+          },
+          {
+            "latince": "MEKKE",
+            "osmanlica": "مكّه"
+          },
+          {
+            "latince": "İLAH",
+            "osmanlica": "الٰه"
+          },
+          {
+            "latince": "MÜŞRİK",
+            "osmanlica": "مشرك"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "MÜŞRİK",
+          "osmanlica": "مشرك"
+        },
+        "yasaklilar": [
+          {
+            "latince": "MEKKE",
+            "osmanlica": "مكّه"
+          },
+          {
+            "latince": "ZALİM",
+            "osmanlica": "ظالم"
+          },
+          {
+            "latince": "DÜŞMAN",
+            "osmanlica": "دوشمان"
+          },
+          {
+            "latince": "PUTPEREST",
+            "osmanlica": "پوتپرست"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "VEDA HUTBESİ",
+          "osmanlica": "وداع خطبه سی"
+        },
+        "yasaklilar": [
+          {
+            "latince": "AYRILIK",
+            "osmanlica": "آیریلق"
+          },
+          {
+            "latince": "CUMA",
+            "osmanlica": "جمعه"
+          },
+          {
+            "latince": "CEMAAT",
+            "osmanlica": "جماعت"
+          },
+          {
+            "latince": "HAC",
+            "osmanlica": "حاج"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "NASİHAT",
+          "osmanlica": "نصیحت"
+        },
+        "yasaklilar": [
+          {
+            "latince": "DİN",
+            "osmanlica": "دین"
+          },
+          {
+            "latince": "ÖĞÜT",
+            "osmanlica": "أوگوت"
+          },
+          {
+            "latince": "UYARI",
+            "osmanlica": "اویاری"
+          },
+          {
+            "latince": "MESAJ",
+            "osmanlica": "مساژ"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "HABEŞİSTAN",
+          "osmanlica": "حبشستان"
+        },
+        "yasaklilar": [
+          {
+            "latince": "HRİSTİYAN",
+            "osmanlica": "خریستییان"
+          },
+          {
+            "latince": "NECAŞİ",
+            "osmanlica": "نجاشی"
+          },
+          {
+            "latince": "HİCRET",
+            "osmanlica": "هجرت"
+          },
+          {
+            "latince": "GÜVENİLİR",
+            "osmanlica": "كوگنیلیر"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "HİCRET",
+          "osmanlica": "هجرت"
+        },
+        "yasaklilar": [
+          {
+            "latince": "MEDİNE",
+            "osmanlica": "مدینه"
+          },
+          {
+            "latince": "MUHACİR",
+            "osmanlica": "مهاجر"
+          },
+          {
+            "latince": "TERK ETME",
+            "osmanlica": "ترك ایتمه"
+          },
+          {
+            "latince": "ENSAR",
+            "osmanlica": "انصار"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "SÜNNET",
+          "osmanlica": "سنّت"
+        },
+        "yasaklilar": [
+          {
+            "latince": "HADİS",
+            "osmanlica": "حادث"
+          },
+          {
+            "latince": "PEYGAMBER",
+            "osmanlica": "پیغمبر"
+          },
+          {
+            "latince": "DAVRANIŞ",
+            "osmanlica": "داورانیش"
+          },
+          {
+            "latince": "SÖZ",
+            "osmanlica": "سوز"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "AYET",
+          "osmanlica": "آیت"
+        },
+        "yasaklilar": [
+          {
+            "latince": "SURE",
+            "osmanlica": "سوره"
+          },
+          {
+            "latince": "CÜMLE",
+            "osmanlica": "جمله"
+          },
+          {
+            "latince": "KURAN",
+            "osmanlica": "قوران"
+          },
+          {
+            "latince": "VAHİY",
+            "osmanlica": "وحی"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "HUDEYBİYE",
+          "osmanlica": "حدیبیه"
+        },
+        "yasaklilar": [
+          {
+            "latince": "ANLAŞMA",
+            "osmanlica": "آڭلاشمه"
+          },
+          {
+            "latince": "UMRE",
+            "osmanlica": "عمره"
+          },
+          {
+            "latince": "MÜŞRİKLER",
+            "osmanlica": "مشركلر"
+          },
+          {
+            "latince": "MÜSLÜMANLAR",
+            "osmanlica": "مسلمانلر"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "MEKKENİN FETHİ",
+          "osmanlica": "مكّه نڭ فتحی"
+        },
+        "yasaklilar": [
+          {
+            "latince": "ZAFER",
+            "osmanlica": "ظفر"
+          },
+          {
+            "latince": "KABE",
+            "osmanlica": "كعبه"
+          },
+          {
+            "latince": "MÜSLÜMAN",
+            "osmanlica": "مسلمان"
+          },
+          {
+            "latince": "DÖNÜŞ",
+            "osmanlica": "دونوش"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "MESCİDİ NEBEVİ",
+          "osmanlica": "مسجدی نبوی"
+        },
+        "yasaklilar": [
+          {
+            "latince": "PEYGAMBER",
+            "osmanlica": "پیغمبر"
+          },
+          {
+            "latince": "MEZAR",
+            "osmanlica": "مزار"
+          },
+          {
+            "latince": "YEŞİL KUBBE",
+            "osmanlica": "یشیل قبه"
+          },
+          {
+            "latince": "MEDİNE",
+            "osmanlica": "مدینه"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "AKABE",
+          "osmanlica": "عقبه"
+        },
+        "yasaklilar": [
+          {
+            "latince": "BİAT",
+            "osmanlica": "بیعت"
+          },
+          {
+            "latince": "DAVET",
+            "osmanlica": "دعوت"
+          },
+          {
+            "latince": "YESRİB",
+            "osmanlica": "یثرب"
+          },
+          {
+            "latince": "MÜSLÜMAN",
+            "osmanlica": "مسلمان"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "MUSAB BİN UMEYR",
+          "osmanlica": "مثاب بیڭ عمیر"
+        },
+        "yasaklilar": [
+          {
+            "latince": "ZENGİN",
+            "osmanlica": "زنگین"
+          },
+          {
+            "latince": "ÖĞRETMEN",
+            "osmanlica": "أوگرتمن"
+          },
+          {
+            "latince": "YAKIŞIKLI",
+            "osmanlica": "یاقیشیقلی"
+          },
+          {
+            "latince": "ŞEHİT",
+            "osmanlica": "شهید"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "MEDİNE",
+          "osmanlica": "مدینه"
+        },
+        "yasaklilar": [
+          {
+            "latince": "YESRİB",
+            "osmanlica": "یثرب"
+          },
+          {
+            "latince": "ENSAR",
+            "osmanlica": "انصار"
+          },
+          {
+            "latince": "MUHACİR",
+            "osmanlica": "مهاجر"
+          },
+          {
+            "latince": "HİCRET",
+            "osmanlica": "هجرت"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "MUCİZE",
+          "osmanlica": "معجزه"
+        },
+        "yasaklilar": [
+          {
+            "latince": "KURBAN",
+            "osmanlica": "قربان"
+          },
+          {
+            "latince": "PEYGAMBER",
+            "osmanlica": "پیغمبر"
+          },
+          {
+            "latince": "MİRAÇ",
+            "osmanlica": "معراج"
+          },
+          {
+            "latince": "OLAĞANÜSTÜ",
+            "osmanlica": "اولاغان أوستی"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "KERİM",
+          "osmanlica": "كریم"
+        },
+        "yasaklilar": [
+          {
+            "latince": "İKRAM",
+            "osmanlica": "اكرام"
+          },
+          {
+            "latince": "CÖMERT",
+            "osmanlica": "جومرد"
+          },
+          {
+            "latince": "NİMET",
+            "osmanlica": "نعمت"
+          },
+          {
+            "latince": "MÜLK",
+            "osmanlica": "ملك"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "SAMED",
+          "osmanlica": "صمد"
+        },
+        "yasaklilar": [
+          {
+            "latince": "MUHTAÇ",
+            "osmanlica": "محتاج"
+          },
+          {
+            "latince": "İHTİYAÇ",
+            "osmanlica": "احتیاج"
+          },
+          {
+            "latince": "ACİZ",
+            "osmanlica": "عاجز"
+          },
+          {
+            "latince": "TEK",
+            "osmanlica": "تك"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "MUCİB",
+          "osmanlica": "موجب"
+        },
+        "yasaklilar": [
+          {
+            "latince": "DUA",
+            "osmanlica": "دعا"
+          },
+          {
+            "latince": "İSTEK",
+            "osmanlica": "ایستك"
+          },
+          {
+            "latince": "KABUL",
+            "osmanlica": "قبول"
+          },
+          {
+            "latince": "KARŞILIK",
+            "osmanlica": "قارشیلق"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "TESETTÜR",
+          "osmanlica": "تستّر"
+        },
+        "yasaklilar": [
+          {
+            "latince": "BAŞÖRTÜSÜ",
+            "osmanlica": "باش أورتوسی"
+          },
+          {
+            "latince": "DIŞARI KIYAFETİ",
+            "osmanlica": "طیشاری قیافتی"
+          },
+          {
+            "latince": "KAPANMAK",
+            "osmanlica": "قاپانمق"
+          },
+          {
+            "latince": "FERACE",
+            "osmanlica": "فراجه"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "KAVİYY",
+          "osmanlica": "قوی"
+        },
+        "yasaklilar": [
+          {
+            "latince": "KUDRET",
+            "osmanlica": "قدرت"
+          },
+          {
+            "latince": "GÜÇ",
+            "osmanlica": "كوچ"
+          },
+          {
+            "latince": "KUVVET",
+            "osmanlica": "قوت"
+          },
+          {
+            "latince": "ÜSTÜN",
+            "osmanlica": "أوستون"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "ADL",
+          "osmanlica": "عدل"
+        },
+        "yasaklilar": [
+          {
+            "latince": "ADALET",
+            "osmanlica": "عدالت"
+          },
+          {
+            "latince": "ADİL",
+            "osmanlica": "عادل"
+          },
+          {
+            "latince": "TERAZİ",
+            "osmanlica": "ترازو"
+          },
+          {
+            "latince": "KARŞILIK",
+            "osmanlica": "قارشیلق"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "CAMİ",
+          "osmanlica": "جامع"
+        },
+        "yasaklilar": [
+          {
+            "latince": "YER",
+            "osmanlica": "یر"
+          },
+          {
+            "latince": "TOPLAMAK",
+            "osmanlica": "طوپلامق"
+          },
+          {
+            "latince": "ZAMAN",
+            "osmanlica": "زمان"
+          },
+          {
+            "latince": "NAMAZ",
+            "osmanlica": "نماز"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "LATİF",
+          "osmanlica": "لطیف"
+        },
+        "yasaklilar": [
+          {
+            "latince": "LÜTUF",
+            "osmanlica": "لطف"
+          },
+          {
+            "latince": "İHSAN",
+            "osmanlica": "احسان"
+          },
+          {
+            "latince": "BİLEN",
+            "osmanlica": "بیلن"
+          },
+          {
+            "latince": "HABERDAR",
+            "osmanlica": "خبردار"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "MELİK",
+          "osmanlica": "ملك"
+        },
+        "yasaklilar": [
+          {
+            "latince": "MÜLK",
+            "osmanlica": "ملك"
+          },
+          {
+            "latince": "SAHİP",
+            "osmanlica": "صاحب"
+          },
+          {
+            "latince": "VARLIK",
+            "osmanlica": "وارلق"
+          },
+          {
+            "latince": "YARATILMIŞ",
+            "osmanlica": "یاراتیلمش"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "VEHHAB",
+          "osmanlica": "وهّاب"
+        },
+        "yasaklilar": [
+          {
+            "latince": "NİMET",
+            "osmanlica": "نعمت"
+          },
+          {
+            "latince": "KARŞILIKSIZ",
+            "osmanlica": "قارشیلقسز"
+          },
+          {
+            "latince": "RIZIK",
+            "osmanlica": "رزق"
+          },
+          {
+            "latince": "MÜLK",
+            "osmanlica": "ملك"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "SABUR",
+          "osmanlica": "صبور"
+        },
+        "yasaklilar": [
+          {
+            "latince": "SABIR",
+            "osmanlica": "صبر"
+          },
+          {
+            "latince": "ACELE ETMEYEN",
+            "osmanlica": "عجله ایتمه ین"
+          },
+          {
+            "latince": "CEZA",
+            "osmanlica": "جزا"
+          },
+          {
+            "latince": "AZAP",
+            "osmanlica": "عذاب"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "RAFİ",
+          "osmanlica": "رافع"
+        },
+        "yasaklilar": [
+          {
+            "latince": "ŞEREF",
+            "osmanlica": "شرف"
+          },
+          {
+            "latince": "YÜKSELTEN",
+            "osmanlica": "یوكسلتن"
+          },
+          {
+            "latince": "İZZET",
+            "osmanlica": "عزّت"
+          },
+          {
+            "latince": "YÜCE",
+            "osmanlica": "یوجه"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "BARİ",
+          "osmanlica": "باری"
+        },
+        "yasaklilar": [
+          {
+            "latince": "KUSURSUZ",
+            "osmanlica": "قصورسز"
+          },
+          {
+            "latince": "UYUMLU",
+            "osmanlica": "اویوملی"
+          },
+          {
+            "latince": "YARATAN",
+            "osmanlica": "یاراتان"
+          },
+          {
+            "latince": "MÜKEMMEL",
+            "osmanlica": "مكمّل"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "NUR",
+          "osmanlica": "نور"
+        },
+        "yasaklilar": [
+          {
+            "latince": "AYDINLIK",
+            "osmanlica": "آیدینلق"
+          },
+          {
+            "latince": "IŞIK",
+            "osmanlica": "ایشیق"
+          },
+          {
+            "latince": "NURLANDIRMAK",
+            "osmanlica": "نورلاندیرمق"
+          },
+          {
+            "latince": "GÜNEŞ",
+            "osmanlica": "كونش"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "KAHHAR",
+          "osmanlica": "قهّار"
+        },
+        "yasaklilar": [
+          {
+            "latince": "GÜÇ",
+            "osmanlica": "كوچ"
+          },
+          {
+            "latince": "HAKİM",
+            "osmanlica": "حاكم"
+          },
+          {
+            "latince": "GALİP",
+            "osmanlica": "غالب"
+          },
+          {
+            "latince": "ÜSTÜN",
+            "osmanlica": "أوستون"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "AZİZ",
+          "osmanlica": "عزیز"
+        },
+        "yasaklilar": [
+          {
+            "latince": "İZZETLİ",
+            "osmanlica": "عزتلی"
+          },
+          {
+            "latince": "GALİP",
+            "osmanlica": "غالب"
+          },
+          {
+            "latince": "YÜCE",
+            "osmanlica": "یوجه"
+          },
+          {
+            "latince": "ÜSTÜN",
+            "osmanlica": "أوستون"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "VEDUD",
+          "osmanlica": "ودود"
+        },
+        "yasaklilar": [
+          {
+            "latince": "SEVEN",
+            "osmanlica": "سون"
+          },
+          {
+            "latince": "SEVİLEN",
+            "osmanlica": "سویلن"
+          },
+          {
+            "latince": "KUL",
+            "osmanlica": "قول"
+          },
+          {
+            "latince": "MERHAMETLİ",
+            "osmanlica": "مرحمتلی"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "HAKEM",
+          "osmanlica": "حكم"
+        },
+        "yasaklilar": [
+          {
+            "latince": "HAK",
+            "osmanlica": "حقّ"
+          },
+          {
+            "latince": "HAKİM",
+            "osmanlica": "حاكم"
+          },
+          {
+            "latince": "HAKİMİYET",
+            "osmanlica": "حاكمیت"
+          },
+          {
+            "latince": "HÜKMEDEN",
+            "osmanlica": "حكم ایدن"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "BEDİ",
+          "osmanlica": "بدیع"
+        },
+        "yasaklilar": [
+          {
+            "latince": "EŞSİZ",
+            "osmanlica": "اشسز"
+          },
+          {
+            "latince": "BENZERSİZ",
+            "osmanlica": "بڭزرسز"
+          },
+          {
+            "latince": "YARATMAK",
+            "osmanlica": "یاراتمق"
+          },
+          {
+            "latince": "GÜZEL",
+            "osmanlica": "كوزل"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "FETTAH",
+          "osmanlica": "فتّاح"
+        },
+        "yasaklilar": [
+          {
+            "latince": "SIKINTI",
+            "osmanlica": "صیقینتی"
+          },
+          {
+            "latince": "KOLAYLIK",
+            "osmanlica": "قولایلق"
+          },
+          {
+            "latince": "DARLIK",
+            "osmanlica": "دارلق"
+          },
+          {
+            "latince": "KURTARAN",
+            "osmanlica": "قورتاران"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "REZZAK",
+          "osmanlica": "رزّاق"
+        },
+        "yasaklilar": [
+          {
+            "latince": "RIZIK",
+            "osmanlica": "رزق"
+          },
+          {
+            "latince": "MÜLK",
+            "osmanlica": "ملك"
+          },
+          {
+            "latince": "NİMET",
+            "osmanlica": "نعمت"
+          },
+          {
+            "latince": "YİYECEK",
+            "osmanlica": "ییه جك"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "AZİM",
+          "osmanlica": "عظیم"
+        },
+        "yasaklilar": [
+          {
+            "latince": "YÜCE",
+            "osmanlica": "یوجه"
+          },
+          {
+            "latince": "BÜYÜK",
+            "osmanlica": "بویوك"
+          },
+          {
+            "latince": "BENZERSİZ",
+            "osmanlica": "بڭزرسز"
+          },
+          {
+            "latince": "ÜSTÜN",
+            "osmanlica": "أوستون"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "DİN",
+          "osmanlica": "دین"
+        },
+        "yasaklilar": [
+          {
+            "latince": "ALLAH",
+            "osmanlica": "اللّٰه"
+          },
+          {
+            "latince": "İNANÇ",
+            "osmanlica": "اینانچ"
+          },
+          {
+            "latince": "İSLAM",
+            "osmanlica": "اسلام"
+          },
+          {
+            "latince": "İMAN",
+            "osmanlica": "ایمان"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "RUH",
+          "osmanlica": "روح"
+        },
+        "yasaklilar": [
+          {
+            "latince": "İNSAN",
+            "osmanlica": "انسان"
+          },
+          {
+            "latince": "SOYUT",
+            "osmanlica": "صویوت"
+          },
+          {
+            "latince": "MANEVİ",
+            "osmanlica": "معنوی"
+          },
+          {
+            "latince": "KUTSAL",
+            "osmanlica": "قوتسال"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "MELEK",
+          "osmanlica": "ملك"
+        },
+        "yasaklilar": [
+          {
+            "latince": "CEBRAİL",
+            "osmanlica": "جبرائیل"
+          },
+          {
+            "latince": "AZRAİL",
+            "osmanlica": "عزرائیل"
+          },
+          {
+            "latince": "MİKAİL",
+            "osmanlica": "میكائیل"
+          },
+          {
+            "latince": "İSRAFİL",
+            "osmanlica": "اسرافیل"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "GÜZEL AHLAK",
+          "osmanlica": "كوزل اخلاق"
+        },
+        "yasaklilar": [
+          {
+            "latince": "İYİLİK",
+            "osmanlica": "اییلك"
+          },
+          {
+            "latince": "İSLAM EMRİ",
+            "osmanlica": "اسلام أمری"
+          },
+          {
+            "latince": "MUHAMMED",
+            "osmanlica": "محمّد"
+          },
+          {
+            "latince": "PEYGAMBER",
+            "osmanlica": "پیغمبر"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "HİDAYET",
+          "osmanlica": "هدایت"
+        },
+        "yasaklilar": [
+          {
+            "latince": "DOĞRU YOL",
+            "osmanlica": "طوغری یول"
+          },
+          {
+            "latince": "İSLAM",
+            "osmanlica": "اسلام"
+          },
+          {
+            "latince": "MÜSLÜMANLAR",
+            "osmanlica": "مسلمانلر"
+          },
+          {
+            "latince": "CENNETLİK",
+            "osmanlica": "جنّتلك"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "SELAM",
+          "osmanlica": "سلام"
+        },
+        "yasaklilar": [
+          {
+            "latince": "KARŞILAŞMAK",
+            "osmanlica": "قارشیلاشمق"
+          },
+          {
+            "latince": "SÜNNET",
+            "osmanlica": "سنّت"
+          },
+          {
+            "latince": "VERMEK",
+            "osmanlica": "ویرمك"
+          },
+          {
+            "latince": "İKİ KİŞİ",
+            "osmanlica": "ایكی كیشی"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "ORUÇ TUTMAK",
+          "osmanlica": "اوروچ طوتمق"
+        },
+        "yasaklilar": [
+          {
+            "latince": "SAHUR",
+            "osmanlica": "سحور"
+          },
+          {
+            "latince": "İFTAR",
+            "osmanlica": "افطار"
+          },
+          {
+            "latince": "AÇLIK",
+            "osmanlica": "آچلق"
+          },
+          {
+            "latince": "İMSAK",
+            "osmanlica": "امساك"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "DİN",
+          "osmanlica": "دین"
+        },
+        "yasaklilar": [
+          {
+            "latince": "İNANÇ",
+            "osmanlica": "اینانچ"
+          },
+          {
+            "latince": "AKIL",
+            "osmanlica": "عقل"
+          },
+          {
+            "latince": "İMAN",
+            "osmanlica": "ایمان"
+          },
+          {
+            "latince": "İSLAM",
+            "osmanlica": "اسلام"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "RAMAZAN",
+          "osmanlica": "رمضان"
+        },
+        "yasaklilar": [
+          {
+            "latince": "HİLAL",
+            "osmanlica": "هلال"
+          },
+          {
+            "latince": "ORUÇ",
+            "osmanlica": "اوروچ"
+          },
+          {
+            "latince": "İFTAR",
+            "osmanlica": "افطار"
+          },
+          {
+            "latince": "SAHUR",
+            "osmanlica": "سحور"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "SAHUR",
+          "osmanlica": "سحور"
+        },
+        "yasaklilar": [
+          {
+            "latince": "GECE",
+            "osmanlica": "كیجه"
+          },
+          {
+            "latince": "İMSAK",
+            "osmanlica": "امساك"
+          },
+          {
+            "latince": "RAMAZAN",
+            "osmanlica": "رمضان"
+          },
+          {
+            "latince": "YEMEK",
+            "osmanlica": "ییمك"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "İFTAR",
+          "osmanlica": "افطار"
+        },
+        "yasaklilar": [
+          {
+            "latince": "YEMEK",
+            "osmanlica": "ییمك"
+          },
+          {
+            "latince": "SAHUR",
+            "osmanlica": "سحور"
+          },
+          {
+            "latince": "ORUÇ",
+            "osmanlica": "اوروچ"
+          },
+          {
+            "latince": "AKŞAM EZANI",
+            "osmanlica": "آقشام أذانی"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "ABDEST",
+          "osmanlica": "آبدست"
+        },
+        "yasaklilar": [
+          {
+            "latince": "NAMAZ",
+            "osmanlica": "نماز"
+          },
+          {
+            "latince": "ALMAK",
+            "osmanlica": "آلمق"
+          },
+          {
+            "latince": "SU",
+            "osmanlica": "صو"
+          },
+          {
+            "latince": "ŞADIRVAN",
+            "osmanlica": "شادروان"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "ŞADIRVAN",
+          "osmanlica": "شادروان"
+        },
+        "yasaklilar": [
+          {
+            "latince": "AVLU",
+            "osmanlica": "آولی"
+          },
+          {
+            "latince": "ABDEST",
+            "osmanlica": "آبدست"
+          },
+          {
+            "latince": "SU",
+            "osmanlica": "صو"
+          },
+          {
+            "latince": "NAMAZ",
+            "osmanlica": "نماز"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "UMRE",
+          "osmanlica": "عمره"
+        },
+        "yasaklilar": [
+          {
+            "latince": "HAC",
+            "osmanlica": "حاج"
+          },
+          {
+            "latince": "TAVAF",
+            "osmanlica": "طواف"
+          },
+          {
+            "latince": "MEKKE",
+            "osmanlica": "مكّه"
+          },
+          {
+            "latince": "MEDİNE",
+            "osmanlica": "مدینه"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "İSLAM",
+          "osmanlica": "اسلام"
+        },
+        "yasaklilar": [
+          {
+            "latince": "YAHUDİLİK",
+            "osmanlica": "یهودیلك"
+          },
+          {
+            "latince": "PUTPERESTLİK",
+            "osmanlica": "پوتپرستلك"
+          },
+          {
+            "latince": "MÜSLÜMANLIK",
+            "osmanlica": "مسلمانلق"
+          },
+          {
+            "latince": "HRİSTİYANLIK",
+            "osmanlica": "خریستییانلق"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "HARAM",
+          "osmanlica": "حرام"
+        },
+        "yasaklilar": [
+          {
+            "latince": "KUMAR",
+            "osmanlica": "قمار"
+          },
+          {
+            "latince": "YASAK",
+            "osmanlica": "یاساق"
+          },
+          {
+            "latince": "İÇKİ",
+            "osmanlica": "ایچكی"
+          },
+          {
+            "latince": "HELAL",
+            "osmanlica": "حلال"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "CAMİ",
+          "osmanlica": "جامع"
+        },
+        "yasaklilar": [
+          {
+            "latince": "EZAN",
+            "osmanlica": "اذان"
+          },
+          {
+            "latince": "NAMAZ KILMAK",
+            "osmanlica": "نماز قیلمق"
+          },
+          {
+            "latince": "MÜEZZİN",
+            "osmanlica": "مؤذّن"
+          },
+          {
+            "latince": "İMAM",
+            "osmanlica": "امام"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "REYYAN",
+          "osmanlica": "ریّان"
+        },
+        "yasaklilar": [
+          {
+            "latince": "CENNET KAPISI",
+            "osmanlica": "جنّت قاپوسی"
+          },
+          {
+            "latince": "ORUÇ",
+            "osmanlica": "اوروچ"
+          },
+          {
+            "latince": "AÇ KALMAK",
+            "osmanlica": "آچ قالمق"
+          },
+          {
+            "latince": "RAMAZAN",
+            "osmanlica": "رمضان"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "TESBİH",
+          "osmanlica": "تسبیح"
+        },
+        "yasaklilar": [
+          {
+            "latince": "TANE",
+            "osmanlica": "دانه"
+          },
+          {
+            "latince": "ÇEKMEK",
+            "osmanlica": "چكمك"
+          },
+          {
+            "latince": "ZİKİR",
+            "osmanlica": "ذكر"
+          },
+          {
+            "latince": "BONCUK",
+            "osmanlica": "بونجوق"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "DUA",
+          "osmanlica": "دعا"
+        },
+        "yasaklilar": [
+          {
+            "latince": "İSTEMEK",
+            "osmanlica": "ایسته مك"
+          },
+          {
+            "latince": "EL AÇMAK",
+            "osmanlica": "ال آچمق"
+          },
+          {
+            "latince": "YAKARMAK",
+            "osmanlica": "یاقارمق"
+          },
+          {
+            "latince": "DİLEMEK",
+            "osmanlica": "دیله مك"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "YESRİB",
+          "osmanlica": "یثرب"
+        },
+        "yasaklilar": [
+          {
+            "latince": "MEDİNE",
+            "osmanlica": "مدینه"
+          },
+          {
+            "latince": "HİCRET",
+            "osmanlica": "هجرت"
+          },
+          {
+            "latince": "ŞEHİR",
+            "osmanlica": "شهر"
+          },
+          {
+            "latince": "PEYGAMBER",
+            "osmanlica": "پیغمبر"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "SİYER",
+          "osmanlica": "سیر"
+        },
+        "yasaklilar": [
+          {
+            "latince": "PEYGAMBER HAYATI",
+            "osmanlica": "پیغمبر حیاتی"
+          },
+          {
+            "latince": "NEBİ",
+            "osmanlica": "نبی"
+          },
+          {
+            "latince": "DERS",
+            "osmanlica": "درس"
+          },
+          {
+            "latince": "FIKIH",
+            "osmanlica": "فقه"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "NECASET",
+          "osmanlica": "نجاست"
+        },
+        "yasaklilar": [
+          {
+            "latince": "TAHARET",
+            "osmanlica": "طهارت"
+          },
+          {
+            "latince": "ABDEST",
+            "osmanlica": "آبدست"
+          },
+          {
+            "latince": "TEMİZLİK",
+            "osmanlica": "تمیزلك"
+          },
+          {
+            "latince": "FIKIH",
+            "osmanlica": "فقه"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "HUTBE",
+          "osmanlica": "خطبه"
+        },
+        "yasaklilar": [
+          {
+            "latince": "CUMA",
+            "osmanlica": "جمعه"
+          },
+          {
+            "latince": "CAMİ",
+            "osmanlica": "جامع"
+          },
+          {
+            "latince": "İMAM",
+            "osmanlica": "امام"
+          },
+          {
+            "latince": "HATİP",
+            "osmanlica": "خطیب"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "MEVLANA",
+          "osmanlica": "مولانا"
+        },
+        "yasaklilar": [
+          {
+            "latince": "KONYA",
+            "osmanlica": "قونیه"
+          },
+          {
+            "latince": "HOŞGÖRÜ",
+            "osmanlica": "خوش گورو"
+          },
+          {
+            "latince": "MESNEVİ",
+            "osmanlica": "مثنوی"
+          },
+          {
+            "latince": "TÜRBE",
+            "osmanlica": "تربه"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "BEDİÜZZAMAN",
+          "osmanlica": "بدیع الزمان"
+        },
+        "yasaklilar": [
+          {
+            "latince": "ISPARTA",
+            "osmanlica": "اسپارطه"
+          },
+          {
+            "latince": "RİSALE",
+            "osmanlica": "رساله"
+          },
+          {
+            "latince": "ZİNDAN",
+            "osmanlica": "زندان"
+          },
+          {
+            "latince": "İŞKENCE",
+            "osmanlica": "اشكنجه"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "CEBRAİL",
+          "osmanlica": "جبرائیل"
+        },
+        "yasaklilar": [
+          {
+            "latince": "MELEK",
+            "osmanlica": "ملك"
+          },
+          {
+            "latince": "VAHİY",
+            "osmanlica": "وحی"
+          },
+          {
+            "latince": "AZRAİL",
+            "osmanlica": "عزرائیل"
+          },
+          {
+            "latince": "MİKAİL",
+            "osmanlica": "میكائیل"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "KIYAM",
+          "osmanlica": "قیام"
+        },
+        "yasaklilar": [
+          {
+            "latince": "AYAK",
+            "osmanlica": "آیاق"
+          },
+          {
+            "latince": "DURMAK",
+            "osmanlica": "طورمق"
+          },
+          {
+            "latince": "DÜZ",
+            "osmanlica": "دوز"
+          },
+          {
+            "latince": "NAMAZ",
+            "osmanlica": "نماز"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "MUHACİR",
+          "osmanlica": "مهاجر"
+        },
+        "yasaklilar": [
+          {
+            "latince": "MEKKE",
+            "osmanlica": "مكّه"
+          },
+          {
+            "latince": "MEDİNE",
+            "osmanlica": "مدینه"
+          },
+          {
+            "latince": "HİCRET",
+            "osmanlica": "هجرت"
+          },
+          {
+            "latince": "ENSAR",
+            "osmanlica": "انصار"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "MENZİL",
+          "osmanlica": "منزل"
+        },
+        "yasaklilar": [
+          {
+            "latince": "ADIYAMAN",
+            "osmanlica": "آدی یامان"
+          },
+          {
+            "latince": "SEYDA",
+            "osmanlica": "سیدا"
+          },
+          {
+            "latince": "MÜRŞİD",
+            "osmanlica": "مرشد"
+          },
+          {
+            "latince": "MÜRİT",
+            "osmanlica": "مرید"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "TEKELLÜF",
+          "osmanlica": "تكلّف"
+        },
+        "yasaklilar": [
+          {
+            "latince": "ZORLUK",
+            "osmanlica": "زورلق"
+          },
+          {
+            "latince": "ZAHMET",
+            "osmanlica": "زحمت"
+          },
+          {
+            "latince": "KADEME",
+            "osmanlica": "قدمه"
+          },
+          {
+            "latince": "İLİM",
+            "osmanlica": "علم"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "PEYGAMBER",
+          "osmanlica": "پیغمبر"
+        },
+        "yasaklilar": [
+          {
+            "latince": "RASUL",
+            "osmanlica": "رسول"
+          },
+          {
+            "latince": "NEBİ",
+            "osmanlica": "نبی"
+          },
+          {
+            "latince": "ELÇİ",
+            "osmanlica": "ایلچی"
+          },
+          {
+            "latince": "VAHİY",
+            "osmanlica": "وحی"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "NECAŞİ",
+          "osmanlica": "نجاشی"
+        },
+        "yasaklilar": [
+          {
+            "latince": "HABEŞİSTAN",
+            "osmanlica": "حبشستان"
+          },
+          {
+            "latince": "KRAL",
+            "osmanlica": "قرال"
+          },
+          {
+            "latince": "HİCRET",
+            "osmanlica": "هجرت"
+          },
+          {
+            "latince": "GÖÇ",
+            "osmanlica": "كوچ"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "ÜMMÜGÜLSÜM",
+          "osmanlica": "امّ كلثوم"
+        },
+        "yasaklilar": [
+          {
+            "latince": "KIZ",
+            "osmanlica": "قیز"
+          },
+          {
+            "latince": "HZ MUHAMMED",
+            "osmanlica": "حضرت محمد"
+          },
+          {
+            "latince": "ZEYNEP",
+            "osmanlica": "زینب"
+          },
+          {
+            "latince": "RUKİYE",
+            "osmanlica": "رقیه"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "TAVAF",
+          "osmanlica": "طواف"
+        },
+        "yasaklilar": [
+          {
+            "latince": "PEYGAMBER",
+            "osmanlica": "پیغمبر"
+          },
+          {
+            "latince": "MEKKE",
+            "osmanlica": "مكّه"
+          },
+          {
+            "latince": "ZEMZEM",
+            "osmanlica": "زمزم"
+          },
+          {
+            "latince": "MEDİNE",
+            "osmanlica": "مدینه"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "UHUVVET",
+          "osmanlica": "اخوّت"
+        },
+        "yasaklilar": [
+          {
+            "latince": "KARDEŞLİK",
+            "osmanlica": "قرداشلك"
+          },
+          {
+            "latince": "DOST",
+            "osmanlica": "دوست"
+          },
+          {
+            "latince": "ARKADAŞ",
+            "osmanlica": "آرقداش"
+          },
+          {
+            "latince": "ÜSTAD",
+            "osmanlica": "استاد"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "CEHENNEM",
+          "osmanlica": "جهنّم"
+        },
+        "yasaklilar": [
+          {
+            "latince": "GÜNAH",
+            "osmanlica": "كناه"
+          },
+          {
+            "latince": "YANMAK",
+            "osmanlica": "یانمق"
+          },
+          {
+            "latince": "CENNET",
+            "osmanlica": "جنّت"
+          },
+          {
+            "latince": "CEZA",
+            "osmanlica": "جزا"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "İBADET",
+          "osmanlica": "عبادت"
+        },
+        "yasaklilar": [
+          {
+            "latince": "GÖREV",
+            "osmanlica": "كورو"
+          },
+          {
+            "latince": "LUK",
+            "osmanlica": "لوك"
+          },
+          {
+            "latince": "ORUÇ TUTMAK",
+            "osmanlica": "اوروچ طوتمق"
+          },
+          {
+            "latince": "NAMAZ",
+            "osmanlica": "نماز"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "TEFEKKÜR",
+          "osmanlica": "تفكّر"
+        },
+        "yasaklilar": [
+          {
+            "latince": "DÜŞÜNMEK",
+            "osmanlica": "دوشونمك"
+          },
+          {
+            "latince": "İBRET ALMAK",
+            "osmanlica": "عبرت آلمق"
+          },
+          {
+            "latince": "BAKMAK",
+            "osmanlica": "باقمق"
+          },
+          {
+            "latince": "İZLEMEK",
+            "osmanlica": "ایزله مك"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "MÜFESSİR",
+          "osmanlica": "مفسّر"
+        },
+        "yasaklilar": [
+          {
+            "latince": "TEFSİR",
+            "osmanlica": "تفسیر"
+          },
+          {
+            "latince": "KUR&apos;AN-I KERİM",
+            "osmanlica": "قور"
+          },
+          {
+            "latince": "MEAL",
+            "osmanlica": "مئال"
+          },
+          {
+            "latince": "AÇIKLAMA",
+            "osmanlica": "آچیقلامه"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "MÜŞRİK",
+          "osmanlica": "مشرك"
+        },
+        "yasaklilar": [
+          {
+            "latince": "ŞİRK",
+            "osmanlica": "شرك"
+          },
+          {
+            "latince": "MÜNAFIK",
+            "osmanlica": "منافق"
+          },
+          {
+            "latince": "KAFİR",
+            "osmanlica": "كافر"
+          },
+          {
+            "latince": "GİZLİ",
+            "osmanlica": "كیزلی"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "HADİS",
+          "osmanlica": "حادث"
+        },
+        "yasaklilar": [
+          {
+            "latince": "SÜNNET",
+            "osmanlica": "سنّت"
+          },
+          {
+            "latince": "PEYGAMBER",
+            "osmanlica": "پیغمبر"
+          },
+          {
+            "latince": "RİVAYET",
+            "osmanlica": "روایت"
+          },
+          {
+            "latince": "SÖZ",
+            "osmanlica": "سوز"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "KUDÜS",
+          "osmanlica": "قدس"
+        },
+        "yasaklilar": [
+          {
+            "latince": "KUTSAL ŞEHİR",
+            "osmanlica": "قوتسال شهر"
+          },
+          {
+            "latince": "FİLİSTİN",
+            "osmanlica": "فلسطین"
+          },
+          {
+            "latince": "SAVAŞ",
+            "osmanlica": "صاواش"
+          },
+          {
+            "latince": "İSRAİL",
+            "osmanlica": "اسرائیل"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "SİYER",
+          "osmanlica": "سیر"
+        },
+        "yasaklilar": [
+          {
+            "latince": "TARİH",
+            "osmanlica": "تاریخ"
+          },
+          {
+            "latince": "HAYAT",
+            "osmanlica": "حیات"
+          },
+          {
+            "latince": "PEYGAMBER",
+            "osmanlica": "پیغمبر"
+          },
+          {
+            "latince": "OLAY",
+            "osmanlica": "اولای"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "AKAİD",
+          "osmanlica": "عقائد"
+        },
+        "yasaklilar": [
+          {
+            "latince": "İTİKAD",
+            "osmanlica": "اعتقاد"
+          },
+          {
+            "latince": "İNANÇ",
+            "osmanlica": "اینانچ"
+          },
+          {
+            "latince": "İLİM",
+            "osmanlica": "علم"
+          },
+          {
+            "latince": "DERS",
+            "osmanlica": "درس"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "MUS&apos;AB BİN UMEYR",
+          "osmanlica": "موس"
+        },
+        "yasaklilar": [
+          {
+            "latince": "YESRİB",
+            "osmanlica": "یثرب"
+          },
+          {
+            "latince": "MEDİNE",
+            "osmanlica": "مدینه"
+          },
+          {
+            "latince": "TEBLİĞ",
+            "osmanlica": "تبلیغ"
+          },
+          {
+            "latince": "SAHABE",
+            "osmanlica": "صحابه"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "NAFİLE",
+          "osmanlica": "نافله"
+        },
+        "yasaklilar": [
+          {
+            "latince": "İBADET",
+            "osmanlica": "عبادت"
+          },
+          {
+            "latince": "FARZ",
+            "osmanlica": "فرض"
+          },
+          {
+            "latince": "NAMAZ",
+            "osmanlica": "نماز"
+          },
+          {
+            "latince": "ORUÇ",
+            "osmanlica": "اوروچ"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "MEDRESE",
+          "osmanlica": "مدرسه"
+        },
+        "yasaklilar": [
+          {
+            "latince": "HAFIZ",
+            "osmanlica": "حافظ"
+          },
+          {
+            "latince": "ARAPÇA",
+            "osmanlica": "عربجه"
+          },
+          {
+            "latince": "ÖĞRENMEK",
+            "osmanlica": "أوگرنمك"
+          },
+          {
+            "latince": "İLİM",
+            "osmanlica": "علم"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "TEHECCÜD",
+          "osmanlica": "تهجّد"
+        },
+        "yasaklilar": [
+          {
+            "latince": "PERŞEMBE",
+            "osmanlica": "پرشنبه"
+          },
+          {
+            "latince": "GECE",
+            "osmanlica": "كیجه"
+          },
+          {
+            "latince": "NAMAZ",
+            "osmanlica": "نماز"
+          },
+          {
+            "latince": "SÜNNET",
+            "osmanlica": "سنّت"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "NEFİS",
+          "osmanlica": "نفس"
+        },
+        "yasaklilar": [
+          {
+            "latince": "ŞEYTAN",
+            "osmanlica": "شیطان"
+          },
+          {
+            "latince": "İRADE",
+            "osmanlica": "اراده"
+          },
+          {
+            "latince": "KORUMAK",
+            "osmanlica": "قورومق"
+          },
+          {
+            "latince": "İNSAN",
+            "osmanlica": "انسان"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "CAMİ",
+          "osmanlica": "جامع"
+        },
+        "yasaklilar": [
+          {
+            "latince": "RÜKU",
+            "osmanlica": "ركوع"
+          },
+          {
+            "latince": "SECDE",
+            "osmanlica": "سجده"
+          },
+          {
+            "latince": "NAMAZ",
+            "osmanlica": "نماز"
+          },
+          {
+            "latince": "ABDEST",
+            "osmanlica": "آبدست"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "SECDE",
+          "osmanlica": "سجده"
+        },
+        "yasaklilar": [
+          {
+            "latince": "NAMAZ",
+            "osmanlica": "نماز"
+          },
+          {
+            "latince": "İBADET",
+            "osmanlica": "عبادت"
+          },
+          {
+            "latince": "KIYAM",
+            "osmanlica": "قیام"
+          },
+          {
+            "latince": "TAPMAK",
+            "osmanlica": "طاپمق"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "HZ AMİNE",
+          "osmanlica": "حضرت آمنه"
+        },
+        "yasaklilar": [
+          {
+            "latince": "HZ MUHAMMED",
+            "osmanlica": "حضرت محمد"
+          },
+          {
+            "latince": "SÜT ANNE",
+            "osmanlica": "سوت آننه"
+          },
+          {
+            "latince": "EMİNE",
+            "osmanlica": "امینه"
+          },
+          {
+            "latince": "ABDULLAH",
+            "osmanlica": "عبد اللّٰه"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "ARAFAT",
+          "osmanlica": "عرفات"
+        },
+        "yasaklilar": [
+          {
+            "latince": "MEKKE",
+            "osmanlica": "مكّه"
+          },
+          {
+            "latince": "DAĞ",
+            "osmanlica": "داغ"
+          },
+          {
+            "latince": "HZ MUHAMMED",
+            "osmanlica": "حضرت محمد"
+          },
+          {
+            "latince": "ARAMAK",
+            "osmanlica": "آرامق"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "TECVİD",
+          "osmanlica": "تجوید"
+        },
+        "yasaklilar": [
+          {
+            "latince": "KUR&apos;AN&apos;I KERİM",
+            "osmanlica": "قور"
+          },
+          {
+            "latince": "KURAL",
+            "osmanlica": "قورال"
+          },
+          {
+            "latince": "OKUMAK",
+            "osmanlica": "اوقومق"
+          },
+          {
+            "latince": "TERTİL",
+            "osmanlica": "ترتیل"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "İLMİHAL",
+          "osmanlica": "علم حال"
+        },
+        "yasaklilar": [
+          {
+            "latince": "İBADET",
+            "osmanlica": "عبادت"
+          },
+          {
+            "latince": "HAL",
+            "osmanlica": "حال"
+          },
+          {
+            "latince": "MÜSLÜMAN",
+            "osmanlica": "مسلمان"
+          },
+          {
+            "latince": "İLİM",
+            "osmanlica": "علم"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "HZ HATİCE",
+          "osmanlica": "حضرت خدیجه"
+        },
+        "yasaklilar": [
+          {
+            "latince": "ZENGİN",
+            "osmanlica": "زنگین"
+          },
+          {
+            "latince": "SEVGİLİ",
+            "osmanlica": "سوگیلی"
+          },
+          {
+            "latince": "İLK",
+            "osmanlica": "ایلك"
+          },
+          {
+            "latince": "EŞ",
+            "osmanlica": "اش"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "MÜŞRİK",
+          "osmanlica": "مشرك"
+        },
+        "yasaklilar": [
+          {
+            "latince": "ŞİRK",
+            "osmanlica": "شرك"
+          },
+          {
+            "latince": "PUT",
+            "osmanlica": "پوت"
+          },
+          {
+            "latince": "TEVHİD",
+            "osmanlica": "توحید"
+          },
+          {
+            "latince": "İLAH",
+            "osmanlica": "الٰه"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "NEFS",
+          "osmanlica": "نفس"
+        },
+        "yasaklilar": [
+          {
+            "latince": "RUH",
+            "osmanlica": "روح"
+          },
+          {
+            "latince": "KÖTÜ",
+            "osmanlica": "كوتو"
+          },
+          {
+            "latince": "HEVA",
+            "osmanlica": "هوا"
+          },
+          {
+            "latince": "FISILDAMAK",
+            "osmanlica": "فیصیلدامق"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "CAMİ",
+          "osmanlica": "جامع"
+        },
+        "yasaklilar": [
+          {
+            "latince": "MESCİD",
+            "osmanlica": "مسجد"
+          },
+          {
+            "latince": "NAMAZ",
+            "osmanlica": "نماز"
+          },
+          {
+            "latince": "TAPINAK",
+            "osmanlica": "طاپیناق"
+          },
+          {
+            "latince": "İBADET YERİ",
+            "osmanlica": "عبادت یری"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "HAFIZ",
+          "osmanlica": "حافظ"
+        },
+        "yasaklilar": [
+          {
+            "latince": "İCAZET",
+            "osmanlica": "اجازت"
+          },
+          {
+            "latince": "HATİM ETMEK",
+            "osmanlica": "ختم ایتمك"
+          },
+          {
+            "latince": "KURAN İ KERÎM",
+            "osmanlica": "قوران ی كریم"
+          },
+          {
+            "latince": "EZBERLEMEK",
+            "osmanlica": "ازبرله مك"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "ANKEBUT SÛRESİ",
+          "osmanlica": "عنكبوت سوره سی"
+        },
+        "yasaklilar": [
+          {
+            "latince": "KARINCA",
+            "osmanlica": "قارینجه"
+          },
+          {
+            "latince": "KURAN İ KERÎM",
+            "osmanlica": "قوران ی كریم"
+          },
+          {
+            "latince": "ÇALIŞKAN",
+            "osmanlica": "چالیشقان"
+          },
+          {
+            "latince": "HAYVAN",
+            "osmanlica": "حیوان"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "HZ EYÜP AS",
+          "osmanlica": "حضرت ایوب آص"
+        },
+        "yasaklilar": [
+          {
+            "latince": "HASTALIK",
+            "osmanlica": "خسته لق"
+          },
+          {
+            "latince": "SABIR",
+            "osmanlica": "صبر"
+          },
+          {
+            "latince": "YARA",
+            "osmanlica": "یاره"
+          },
+          {
+            "latince": "PEYGAMBER",
+            "osmanlica": "پیغمبر"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "FİL VAKASI",
+          "osmanlica": "فیل وقعه سی"
+        },
+        "yasaklilar": [
+          {
+            "latince": "EBREHE",
+            "osmanlica": "ابرهه"
+          },
+          {
+            "latince": "KABE",
+            "osmanlica": "كعبه"
+          },
+          {
+            "latince": "FİL",
+            "osmanlica": "فیل"
+          },
+          {
+            "latince": "EBABİL",
+            "osmanlica": "ابابیل"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "MİHRAP",
+          "osmanlica": "محراب"
+        },
+        "yasaklilar": [
+          {
+            "latince": "MİNBER",
+            "osmanlica": "منبر"
+          },
+          {
+            "latince": "CAMİ",
+            "osmanlica": "جامع"
+          },
+          {
+            "latince": "EZAN",
+            "osmanlica": "اذان"
+          },
+          {
+            "latince": "İMAM",
+            "osmanlica": "امام"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "NAMAZ",
+          "osmanlica": "نماز"
+        },
+        "yasaklilar": [
+          {
+            "latince": "BEŞ VAKİT",
+            "osmanlica": "بش وقت"
+          },
+          {
+            "latince": "CAMİ",
+            "osmanlica": "جامع"
+          },
+          {
+            "latince": "KIBLE",
+            "osmanlica": "قبله"
+          },
+          {
+            "latince": "RÜKU",
+            "osmanlica": "ركوع"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "ZEKAT",
+          "osmanlica": "زكات"
+        },
+        "yasaklilar": [
+          {
+            "latince": "MAL",
+            "osmanlica": "مال"
+          },
+          {
+            "latince": "PARA",
+            "osmanlica": "پاره"
+          },
+          {
+            "latince": "YOKSUL",
+            "osmanlica": "یوقسول"
+          },
+          {
+            "latince": "YARDIM",
+            "osmanlica": "یاردیم"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "EZAN",
+          "osmanlica": "اذان"
+        },
+        "yasaklilar": [
+          {
+            "latince": "ALLAH U EKBER",
+            "osmanlica": "اللّٰه او اكبر"
+          },
+          {
+            "latince": "VAKİT",
+            "osmanlica": "وقت"
+          },
+          {
+            "latince": "NAMAZ",
+            "osmanlica": "نماز"
+          },
+          {
+            "latince": "CAMİ",
+            "osmanlica": "جامع"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "PUTPERESTLİK",
+          "osmanlica": "پوتپرستلك"
+        },
+        "yasaklilar": [
+          {
+            "latince": "CAHİLİYE",
+            "osmanlica": "جاهلیه"
+          },
+          {
+            "latince": "MEKKE",
+            "osmanlica": "مكّه"
+          },
+          {
+            "latince": "İLAH",
+            "osmanlica": "الٰه"
+          },
+          {
+            "latince": "MÜŞRİK",
+            "osmanlica": "مشرك"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "SILA-İ RAHİM",
+          "osmanlica": "صلۀ رحم"
+        },
+        "yasaklilar": [
+          {
+            "latince": "ZİYARET",
+            "osmanlica": "زیارت"
+          },
+          {
+            "latince": "AKRABA",
+            "osmanlica": "اقربا"
+          },
+          {
+            "latince": "CENNET",
+            "osmanlica": "جنّت"
+          },
+          {
+            "latince": "HADİS",
+            "osmanlica": "حادث"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "İLK İNSAN",
+          "osmanlica": "ایلك انسان"
+        },
+        "yasaklilar": [
+          {
+            "latince": "ADEM",
+            "osmanlica": "عدم"
+          },
+          {
+            "latince": "HAVVA",
+            "osmanlica": "حوا"
+          },
+          {
+            "latince": "ELMA",
+            "osmanlica": "الما"
+          },
+          {
+            "latince": "ŞEYTAN",
+            "osmanlica": "شیطان"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "TEBESSÜM ETMEK",
+          "osmanlica": "تبسّم ایتمك"
+        },
+        "yasaklilar": [
+          {
+            "latince": "SADAKA",
+            "osmanlica": "صدقه"
+          },
+          {
+            "latince": "SÜNNET",
+            "osmanlica": "سنّت"
+          },
+          {
+            "latince": "GÜLMEK",
+            "osmanlica": "كولمك"
+          },
+          {
+            "latince": "KARDEŞLİK BAĞI",
+            "osmanlica": "قرداشلك باغی"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "MÜŞRİK",
+          "osmanlica": "مشرك"
+        },
+        "yasaklilar": [
+          {
+            "latince": "MEKKE",
+            "osmanlica": "مكّه"
+          },
+          {
+            "latince": "ZALİM",
+            "osmanlica": "ظالم"
+          },
+          {
+            "latince": "DÜŞMAN",
+            "osmanlica": "دوشمان"
+          },
+          {
+            "latince": "PUTPEREST",
+            "osmanlica": "پوتپرست"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "İLAHİ KİTAP",
+          "osmanlica": "الٰهی كتاب"
+        },
+        "yasaklilar": [
+          {
+            "latince": "İNCİL",
+            "osmanlica": "انجیل"
+          },
+          {
+            "latince": "TEVRAT",
+            "osmanlica": "تورات"
+          },
+          {
+            "latince": "ZEBUR",
+            "osmanlica": "زبور"
+          },
+          {
+            "latince": "KUR&apos;AN-I KERİM",
+            "osmanlica": "قور"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "HADİS",
+          "osmanlica": "حادث"
+        },
+        "yasaklilar": [
+          {
+            "latince": "SÜNNET",
+            "osmanlica": "سنّت"
+          },
+          {
+            "latince": "HZ MUHAMMED",
+            "osmanlica": "حضرت محمد"
+          },
+          {
+            "latince": "DOĞRU SÖZ",
+            "osmanlica": "طوغری سوز"
+          },
+          {
+            "latince": "MÜTEVATİR",
+            "osmanlica": "متواتر"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "İSRA VE MİRAÇ",
+          "osmanlica": "اسرا و معراج"
+        },
+        "yasaklilar": [
+          {
+            "latince": "YÜKSELMEK",
+            "osmanlica": "یوكسلمك"
+          },
+          {
+            "latince": "GECE YÜRÜYÜŞÜ",
+            "osmanlica": "كیجه یورویوشی"
+          },
+          {
+            "latince": "HEDİYE",
+            "osmanlica": "هدیه"
+          },
+          {
+            "latince": "BİR GECE",
+            "osmanlica": "بر كیجه"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "RAMAZAN",
+          "osmanlica": "رمضان"
+        },
+        "yasaklilar": [
+          {
+            "latince": "ORUÇ",
+            "osmanlica": "اوروچ"
+          },
+          {
+            "latince": "ÜÇ AYLAR",
+            "osmanlica": "اوچ آیلر"
+          },
+          {
+            "latince": "SAHUR",
+            "osmanlica": "سحور"
+          },
+          {
+            "latince": "İFTAR",
+            "osmanlica": "افطار"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "İSLAM",
+          "osmanlica": "اسلام"
+        },
+        "yasaklilar": [
+          {
+            "latince": "DİN",
+            "osmanlica": "دین"
+          },
+          {
+            "latince": "MUHAMMED",
+            "osmanlica": "محمّد"
+          },
+          {
+            "latince": "ALLAH",
+            "osmanlica": "اللّٰه"
+          },
+          {
+            "latince": "VAHİY",
+            "osmanlica": "وحی"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "TAKKE",
+          "osmanlica": "طاقیه"
+        },
+        "yasaklilar": [
+          {
+            "latince": "ERKEK",
+            "osmanlica": "اركك"
+          },
+          {
+            "latince": "NAMAZ",
+            "osmanlica": "نماز"
+          },
+          {
+            "latince": "BAŞ",
+            "osmanlica": "باش"
+          },
+          {
+            "latince": "CAMİİ",
+            "osmanlica": "جامعی"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "BAŞÖRTÜ",
+          "osmanlica": "باش أورتو"
+        },
+        "yasaklilar": [
+          {
+            "latince": "KADIN",
+            "osmanlica": "قادین"
+          },
+          {
+            "latince": "BAŞ",
+            "osmanlica": "باش"
+          },
+          {
+            "latince": "FERACE",
+            "osmanlica": "فراجه"
+          },
+          {
+            "latince": "TESETTÜR",
+            "osmanlica": "تستّر"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "SELA",
+          "osmanlica": "سلا"
+        },
+        "yasaklilar": [
+          {
+            "latince": "MEVTA",
+            "osmanlica": "موتا"
+          },
+          {
+            "latince": "ÖLÜM",
+            "osmanlica": "أولوم"
+          },
+          {
+            "latince": "AZRAİL",
+            "osmanlica": "عزرائیل"
+          },
+          {
+            "latince": "CENAZE",
+            "osmanlica": "جنازه"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "MİNBER",
+          "osmanlica": "منبر"
+        },
+        "yasaklilar": [
+          {
+            "latince": "CAMİ",
+            "osmanlica": "جامع"
+          },
+          {
+            "latince": "YÜKSEK",
+            "osmanlica": "یوكسك"
+          },
+          {
+            "latince": "MERDİVEN",
+            "osmanlica": "مردیون"
+          },
+          {
+            "latince": "İMAM",
+            "osmanlica": "امام"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "MİHRAP",
+          "osmanlica": "محراب"
+        },
+        "yasaklilar": [
+          {
+            "latince": "CAMİ",
+            "osmanlica": "جامع"
+          },
+          {
+            "latince": "NAMAZ",
+            "osmanlica": "نماز"
+          },
+          {
+            "latince": "İMAM",
+            "osmanlica": "امام"
+          },
+          {
+            "latince": "CEMAAT",
+            "osmanlica": "جماعت"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "TEVHİD",
+          "osmanlica": "توحید"
+        },
+        "yasaklilar": [
+          {
+            "latince": "BİRLEMEK",
+            "osmanlica": "برله مك"
+          },
+          {
+            "latince": "ŞİRK",
+            "osmanlica": "شرك"
+          },
+          {
+            "latince": "MÜSLÜMAN",
+            "osmanlica": "مسلمان"
+          },
+          {
+            "latince": "ŞEHADET KELİMESİ",
+            "osmanlica": "شهادت كلمه سی"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "VEDA HUTBESİ",
+          "osmanlica": "وداع خطبه سی"
+        },
+        "yasaklilar": [
+          {
+            "latince": "AYRILIK",
+            "osmanlica": "آیریلق"
+          },
+          {
+            "latince": "CUMA",
+            "osmanlica": "جمعه"
+          },
+          {
+            "latince": "CEMAAT",
+            "osmanlica": "جماعت"
+          },
+          {
+            "latince": "HAC",
+            "osmanlica": "حاج"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "ALEM",
+          "osmanlica": "عالم"
+        },
+        "yasaklilar": [
+          {
+            "latince": "MİNARE",
+            "osmanlica": "مناره"
+          },
+          {
+            "latince": "HİLAL",
+            "osmanlica": "هلال"
+          },
+          {
+            "latince": "EZAN",
+            "osmanlica": "اذان"
+          },
+          {
+            "latince": "CAMİ",
+            "osmanlica": "جامع"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "KUBA MESCİDİ",
+          "osmanlica": "قبا مسجدی"
+        },
+        "yasaklilar": [
+          {
+            "latince": "MEDİNE",
+            "osmanlica": "مدینه"
+          },
+          {
+            "latince": "CAMİ",
+            "osmanlica": "جامع"
+          },
+          {
+            "latince": "HİCRET",
+            "osmanlica": "هجرت"
+          },
+          {
+            "latince": "NAMAZ",
+            "osmanlica": "نماز"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "TESBİH ÇEKMEK",
+          "osmanlica": "تسبیح چكمك"
+        },
+        "yasaklilar": [
+          {
+            "latince": "NAMAZ",
+            "osmanlica": "نماز"
+          },
+          {
+            "latince": "DUA",
+            "osmanlica": "دعا"
+          },
+          {
+            "latince": "ZİKİR",
+            "osmanlica": "ذكر"
+          },
+          {
+            "latince": "BONCUK",
+            "osmanlica": "بونجوق"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "AYET",
+          "osmanlica": "آیت"
+        },
+        "yasaklilar": [
+          {
+            "latince": "SÖZ",
+            "osmanlica": "سوز"
+          },
+          {
+            "latince": "VAHİY",
+            "osmanlica": "وحی"
+          },
+          {
+            "latince": "KURANI KERİM",
+            "osmanlica": "قرآنی كریم"
+          },
+          {
+            "latince": "SURE",
+            "osmanlica": "سوره"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "NAMAZ",
+          "osmanlica": "نماز"
+        },
+        "yasaklilar": [
+          {
+            "latince": "TEKBİR",
+            "osmanlica": "تكبیر"
+          },
+          {
+            "latince": "KILMAK",
+            "osmanlica": "قیلمق"
+          },
+          {
+            "latince": "İBADET",
+            "osmanlica": "عبادت"
+          },
+          {
+            "latince": "CAMİ",
+            "osmanlica": "جامع"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "BEYTULLAH",
+          "osmanlica": "بیت اللّٰه"
+        },
+        "yasaklilar": [
+          {
+            "latince": "KABE",
+            "osmanlica": "كعبه"
+          },
+          {
+            "latince": "İSİM",
+            "osmanlica": "اسم"
+          },
+          {
+            "latince": "EV",
+            "osmanlica": "أو"
+          },
+          {
+            "latince": "MEKKE",
+            "osmanlica": "مكّه"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "İMAME",
+          "osmanlica": "عمامه"
+        },
+        "yasaklilar": [
+          {
+            "latince": "TESBİH",
+            "osmanlica": "تسبیح"
+          },
+          {
+            "latince": "BAŞ",
+            "osmanlica": "باش"
+          },
+          {
+            "latince": "BONCUK",
+            "osmanlica": "بونجوق"
+          },
+          {
+            "latince": "İMAM",
+            "osmanlica": "امام"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "TEVHİD",
+          "osmanlica": "توحید"
+        },
+        "yasaklilar": [
+          {
+            "latince": "İSLAM",
+            "osmanlica": "اسلام"
+          },
+          {
+            "latince": "TEK",
+            "osmanlica": "تك"
+          },
+          {
+            "latince": "ALLAH",
+            "osmanlica": "اللّٰه"
+          },
+          {
+            "latince": "ŞEHADET",
+            "osmanlica": "شهادت"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "KUR&apos;AN",
+          "osmanlica": "قور"
+        },
+        "yasaklilar": [
+          {
+            "latince": "AYET",
+            "osmanlica": "آیت"
+          },
+          {
+            "latince": "SURE",
+            "osmanlica": "سوره"
+          },
+          {
+            "latince": "DELİL",
+            "osmanlica": "دلیل"
+          },
+          {
+            "latince": "CÜZ",
+            "osmanlica": "جزؤ"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "ORUÇ",
+          "osmanlica": "اوروچ"
+        },
+        "yasaklilar": [
+          {
+            "latince": "RAMAZAN",
+            "osmanlica": "رمضان"
+          },
+          {
+            "latince": "SABIRLI OLMAK",
+            "osmanlica": "صبرلی اولمق"
+          },
+          {
+            "latince": "TEMİZLENMEK",
+            "osmanlica": "تمیزلنمك"
+          },
+          {
+            "latince": "SEVAP",
+            "osmanlica": "ثواب"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "HAFIZ",
+          "osmanlica": "حافظ"
+        },
+        "yasaklilar": [
+          {
+            "latince": "KURANI KERİM",
+            "osmanlica": "قرآنی كریم"
+          },
+          {
+            "latince": "EZBERLEMEK",
+            "osmanlica": "ازبرله مك"
+          },
+          {
+            "latince": "AYET",
+            "osmanlica": "آیت"
+          },
+          {
+            "latince": "İCAZETNAME",
+            "osmanlica": "اجازتنامه"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "İSLAM",
+          "osmanlica": "اسلام"
+        },
+        "yasaklilar": [
+          {
+            "latince": "DİN",
+            "osmanlica": "دین"
+          },
+          {
+            "latince": "NAMAZ",
+            "osmanlica": "نماز"
+          },
+          {
+            "latince": "ORUÇ",
+            "osmanlica": "اوروچ"
+          },
+          {
+            "latince": "ZEKAT",
+            "osmanlica": "زكات"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "ZEMZEM",
+          "osmanlica": "زمزم"
+        },
+        "yasaklilar": [
+          {
+            "latince": "HAC",
+            "osmanlica": "حاج"
+          },
+          {
+            "latince": "HİRA",
+            "osmanlica": "حرا"
+          },
+          {
+            "latince": "SU",
+            "osmanlica": "صو"
+          },
+          {
+            "latince": "İLAHİ",
+            "osmanlica": "الٰهی"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "UHUVVET",
+          "osmanlica": "اخوّت"
+        },
+        "yasaklilar": [
+          {
+            "latince": "KARDEŞLİK",
+            "osmanlica": "قرداشلك"
+          },
+          {
+            "latince": "RİSALE",
+            "osmanlica": "رساله"
+          },
+          {
+            "latince": "BEDİÜZZAMAN",
+            "osmanlica": "بدیع الزمان"
+          },
+          {
+            "latince": "CEMAAT",
+            "osmanlica": "جماعت"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "İBLİS",
+          "osmanlica": "ابلیس"
+        },
+        "yasaklilar": [
+          {
+            "latince": "ŞEYTAN",
+            "osmanlica": "شیطان"
+          },
+          {
+            "latince": "MELEK",
+            "osmanlica": "ملك"
+          },
+          {
+            "latince": "ADEM",
+            "osmanlica": "عدم"
+          },
+          {
+            "latince": "PEYGAMBER",
+            "osmanlica": "پیغمبر"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "SANDALYE",
+          "osmanlica": "صندالیه"
+        },
+        "yasaklilar": [
+          {
+            "latince": "AYAK",
+            "osmanlica": "آیاق"
+          },
+          {
+            "latince": "OTURMAK",
+            "osmanlica": "اوتورمق"
+          },
+          {
+            "latince": "YUMUŞAK",
+            "osmanlica": "یوموشاق"
+          },
+          {
+            "latince": "MASA",
+            "osmanlica": "ماصه"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "TEYEMMÜM",
+          "osmanlica": "تیمّم"
+        },
+        "yasaklilar": [
+          {
+            "latince": "ABDEST",
+            "osmanlica": "آبدست"
+          },
+          {
+            "latince": "SU",
+            "osmanlica": "صو"
+          },
+          {
+            "latince": "NAMAZ",
+            "osmanlica": "نماز"
+          },
+          {
+            "latince": "GÖRMEK",
+            "osmanlica": "كورمك"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "MİSVAK",
+          "osmanlica": "مسواك"
+        },
+        "yasaklilar": [
+          {
+            "latince": "DİŞ",
+            "osmanlica": "دیش"
+          },
+          {
+            "latince": "FIRÇA",
+            "osmanlica": "فیرچه"
+          },
+          {
+            "latince": "AĞIZ",
+            "osmanlica": "آغیز"
+          },
+          {
+            "latince": "SÜNNET",
+            "osmanlica": "سنّت"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "ÜNZİLE",
+          "osmanlica": "انزله"
+        },
+        "yasaklilar": [
+          {
+            "latince": "KURAN",
+            "osmanlica": "قوران"
+          },
+          {
+            "latince": "İNSAN",
+            "osmanlica": "انسان"
+          },
+          {
+            "latince": "AD",
+            "osmanlica": "عاد"
+          },
+          {
+            "latince": "KAC KOYUN EDİYOR",
+            "osmanlica": "كاج قویون ایدییور"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "İSLAM ŞARTLARI",
+          "osmanlica": "اسلام شرطلری"
+        },
+        "yasaklilar": [
+          {
+            "latince": "ORUÇ",
+            "osmanlica": "اوروچ"
+          },
+          {
+            "latince": "NAMAZ",
+            "osmanlica": "نماز"
+          },
+          {
+            "latince": "ZEKAT",
+            "osmanlica": "زكات"
+          },
+          {
+            "latince": "ŞEHADET",
+            "osmanlica": "شهادت"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "İSLAM",
+          "osmanlica": "اسلام"
+        },
+        "yasaklilar": [
+          {
+            "latince": "DİN",
+            "osmanlica": "دین"
+          },
+          {
+            "latince": "MÜSLÜMAN",
+            "osmanlica": "مسلمان"
+          },
+          {
+            "latince": "İNANÇ",
+            "osmanlica": "اینانچ"
+          },
+          {
+            "latince": "AHLAK",
+            "osmanlica": "اخلاق"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "İMAM",
+          "osmanlica": "امام"
+        },
+        "yasaklilar": [
+          {
+            "latince": "CAMİ",
+            "osmanlica": "جامع"
+          },
+          {
+            "latince": "NAMAZ",
+            "osmanlica": "نماز"
+          },
+          {
+            "latince": "EZAN",
+            "osmanlica": "اذان"
+          },
+          {
+            "latince": "HUTBE",
+            "osmanlica": "خطبه"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "TEBLİĞ",
+          "osmanlica": "تبلیغ"
+        },
+        "yasaklilar": [
+          {
+            "latince": "PEYGAMBER",
+            "osmanlica": "پیغمبر"
+          },
+          {
+            "latince": "UYARMAK",
+            "osmanlica": "اویارمق"
+          },
+          {
+            "latince": "ANLATMAK",
+            "osmanlica": "آڭلاتمق"
+          },
+          {
+            "latince": "DİN",
+            "osmanlica": "دین"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "MAHŞER",
+          "osmanlica": "محشر"
+        },
+        "yasaklilar": [
+          {
+            "latince": "TOPLANMAK",
+            "osmanlica": "طوپلانمق"
+          },
+          {
+            "latince": "ÖLÜM",
+            "osmanlica": "أولوم"
+          },
+          {
+            "latince": "AHİRET",
+            "osmanlica": "آخرت"
+          },
+          {
+            "latince": "KIYAMET",
+            "osmanlica": "قیامت"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "BAYRAM NAMAZI",
+          "osmanlica": "بایرام نمازی"
+        },
+        "yasaklilar": [
+          {
+            "latince": "RAMAZAN",
+            "osmanlica": "رمضان"
+          },
+          {
+            "latince": "NAMAZ",
+            "osmanlica": "نماز"
+          },
+          {
+            "latince": "İKİ",
+            "osmanlica": "ایكی"
+          },
+          {
+            "latince": "RAMAZAN BAYRAMI",
+            "osmanlica": "رمضان بایرامی"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "DİNİ",
+          "osmanlica": "دینی"
+        },
+        "yasaklilar": [
+          {
+            "latince": "TESBİH",
+            "osmanlica": "تسبیح"
+          },
+          {
+            "latince": "SURE",
+            "osmanlica": "سوره"
+          },
+          {
+            "latince": "YASİN",
+            "osmanlica": "یاسین"
+          },
+          {
+            "latince": "VAKİA",
+            "osmanlica": "وقیعه"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "GÜNAHKAR",
+          "osmanlica": "كناهكار"
+        },
+        "yasaklilar": [
+          {
+            "latince": "GÜNAH",
+            "osmanlica": "كناه"
+          },
+          {
+            "latince": "CEZA",
+            "osmanlica": "جزا"
+          },
+          {
+            "latince": "CEHENNEM",
+            "osmanlica": "جهنّم"
+          },
+          {
+            "latince": "KÖTÜ",
+            "osmanlica": "كوتو"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "HZ HATİCE",
+          "osmanlica": "حضرت خدیجه"
+        },
+        "yasaklilar": [
+          {
+            "latince": "ZENGİN",
+            "osmanlica": "زنگین"
+          },
+          {
+            "latince": "EFENDİMİZİN EŞİ",
+            "osmanlica": "افندیمزڭ أشی"
+          },
+          {
+            "latince": "HÜZÜN YILI",
+            "osmanlica": "حزن ییلی"
+          },
+          {
+            "latince": "İFFETLİ",
+            "osmanlica": "عفّتلی"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "MUSAB BİN UMEYR",
+          "osmanlica": "مثاب بیڭ عمیر"
+        },
+        "yasaklilar": [
+          {
+            "latince": "ZENGİN",
+            "osmanlica": "زنگین"
+          },
+          {
+            "latince": "PEYGAMBERE BENZEYEN",
+            "osmanlica": "پیغمبره بڭزه ین"
+          },
+          {
+            "latince": "UHUD",
+            "osmanlica": "احد"
+          },
+          {
+            "latince": "GENÇ",
+            "osmanlica": "كنچ"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "KIYAMET",
+          "osmanlica": "قیامت"
+        },
+        "yasaklilar": [
+          {
+            "latince": "SUR",
+            "osmanlica": "سور"
+          },
+          {
+            "latince": "HESAP",
+            "osmanlica": "حساب"
+          },
+          {
+            "latince": "SON",
+            "osmanlica": "صوڭ"
+          },
+          {
+            "latince": "KOPMAK",
+            "osmanlica": "قوپمق"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "OKUMAK",
+          "osmanlica": "اوقومق"
+        },
+        "yasaklilar": [
+          {
+            "latince": "İGRA",
+            "osmanlica": "اغرا"
+          },
+          {
+            "latince": "VAHİY",
+            "osmanlica": "وحی"
+          },
+          {
+            "latince": "CEBRAİL",
+            "osmanlica": "جبرائیل"
+          },
+          {
+            "latince": "KUR&apos;AN",
+            "osmanlica": "قور"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "ARAFAT",
+          "osmanlica": "عرفات"
+        },
+        "yasaklilar": [
+          {
+            "latince": "DAĞ",
+            "osmanlica": "داغ"
+          },
+          {
+            "latince": "VEDA HUTBESİ",
+            "osmanlica": "وداع خطبه سی"
+          },
+          {
+            "latince": "HAC",
+            "osmanlica": "حاج"
+          },
+          {
+            "latince": "MEKKE",
+            "osmanlica": "مكّه"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "HABEŞİSTAN",
+          "osmanlica": "حبشستان"
+        },
+        "yasaklilar": [
+          {
+            "latince": "HRİSTİYAN",
+            "osmanlica": "خریستییان"
+          },
+          {
+            "latince": "NECAŞİ",
+            "osmanlica": "نجاشی"
+          },
+          {
+            "latince": "HİCRET",
+            "osmanlica": "هجرت"
+          },
+          {
+            "latince": "GÜVENİLİR",
+            "osmanlica": "كوگنیلیر"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "İNCİL",
+          "osmanlica": "انجیل"
+        },
+        "yasaklilar": [
+          {
+            "latince": "İSA PEYGAMBER",
+            "osmanlica": "عیسی پیغمبر"
+          },
+          {
+            "latince": "HRİSTİYANLIK",
+            "osmanlica": "خریستییانلق"
+          },
+          {
+            "latince": "KUTSAL",
+            "osmanlica": "قوتسال"
+          },
+          {
+            "latince": "KİTAP",
+            "osmanlica": "كتاب"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "HİCRET",
+          "osmanlica": "هجرت"
+        },
+        "yasaklilar": [
+          {
+            "latince": "MEDİNE",
+            "osmanlica": "مدینه"
+          },
+          {
+            "latince": "MUHACİR",
+            "osmanlica": "مهاجر"
+          },
+          {
+            "latince": "TERK ETME",
+            "osmanlica": "ترك ایتمه"
+          },
+          {
+            "latince": "ENSAR",
+            "osmanlica": "انصار"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "SÜNNET",
+          "osmanlica": "سنّت"
+        },
+        "yasaklilar": [
+          {
+            "latince": "HADİS",
+            "osmanlica": "حادث"
+          },
+          {
+            "latince": "PEYGAMBER",
+            "osmanlica": "پیغمبر"
+          },
+          {
+            "latince": "DAVRANIŞ",
+            "osmanlica": "داورانیش"
+          },
+          {
+            "latince": "SÖZ",
+            "osmanlica": "سوز"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "AYET",
+          "osmanlica": "آیت"
+        },
+        "yasaklilar": [
+          {
+            "latince": "SURE",
+            "osmanlica": "سوره"
+          },
+          {
+            "latince": "CÜMLE",
+            "osmanlica": "جمله"
+          },
+          {
+            "latince": "KURAN",
+            "osmanlica": "قوران"
+          },
+          {
+            "latince": "VAHİY",
+            "osmanlica": "وحی"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "HUDEYBİYE",
+          "osmanlica": "حدیبیه"
+        },
+        "yasaklilar": [
+          {
+            "latince": "ANLAŞMA",
+            "osmanlica": "آڭلاشمه"
+          },
+          {
+            "latince": "UMRE",
+            "osmanlica": "عمره"
+          },
+          {
+            "latince": "MÜŞRİKLER",
+            "osmanlica": "مشركلر"
+          },
+          {
+            "latince": "MÜSLÜMANLAR",
+            "osmanlica": "مسلمانلر"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "MEKKENİN FETHİ",
+          "osmanlica": "مكّه نڭ فتحی"
+        },
+        "yasaklilar": [
+          {
+            "latince": "ZAFER",
+            "osmanlica": "ظفر"
+          },
+          {
+            "latince": "KABE",
+            "osmanlica": "كعبه"
+          },
+          {
+            "latince": "MÜSLÜMAN",
+            "osmanlica": "مسلمان"
+          },
+          {
+            "latince": "DÖNÜŞ",
+            "osmanlica": "دونوش"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "MESCİDİ NEBEVİ",
+          "osmanlica": "مسجدی نبوی"
+        },
+        "yasaklilar": [
+          {
+            "latince": "PEYGAMBER",
+            "osmanlica": "پیغمبر"
+          },
+          {
+            "latince": "MEZAR",
+            "osmanlica": "مزار"
+          },
+          {
+            "latince": "YEŞİL KUBBE",
+            "osmanlica": "یشیل قبه"
+          },
+          {
+            "latince": "MEDİNE",
+            "osmanlica": "مدینه"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "AKABE",
+          "osmanlica": "عقبه"
+        },
+        "yasaklilar": [
+          {
+            "latince": "BİAT",
+            "osmanlica": "بیعت"
+          },
+          {
+            "latince": "DAVET",
+            "osmanlica": "دعوت"
+          },
+          {
+            "latince": "YESRİB",
+            "osmanlica": "یثرب"
+          },
+          {
+            "latince": "MÜSLÜMAN",
+            "osmanlica": "مسلمان"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "KURAN-I KERİM",
+          "osmanlica": "قرآن كریم"
+        },
+        "yasaklilar": [
+          {
+            "latince": "KİTAP",
+            "osmanlica": "كتاب"
+          },
+          {
+            "latince": "İSLAM",
+            "osmanlica": "اسلام"
+          },
+          {
+            "latince": "MUHAMMED",
+            "osmanlica": "محمّد"
+          },
+          {
+            "latince": "VAHİY",
+            "osmanlica": "وحی"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "MUSAB BİN UMEYR",
+          "osmanlica": "مثاب بیڭ عمیر"
+        },
+        "yasaklilar": [
+          {
+            "latince": "ZENGİN",
+            "osmanlica": "زنگین"
+          },
+          {
+            "latince": "ÖĞRETMEN",
+            "osmanlica": "أوگرتمن"
+          },
+          {
+            "latince": "YAKIŞIKLI",
+            "osmanlica": "یاقیشیقلی"
+          },
+          {
+            "latince": "ŞEHİT",
+            "osmanlica": "شهید"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "MEDİNE",
+          "osmanlica": "مدینه"
+        },
+        "yasaklilar": [
+          {
+            "latince": "YESRİB",
+            "osmanlica": "یثرب"
+          },
+          {
+            "latince": "ENSAR",
+            "osmanlica": "انصار"
+          },
+          {
+            "latince": "MUHACİR",
+            "osmanlica": "مهاجر"
+          },
+          {
+            "latince": "HİCRET",
+            "osmanlica": "هجرت"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "MUCİZE",
+          "osmanlica": "معجزه"
+        },
+        "yasaklilar": [
+          {
+            "latince": "KURBAN",
+            "osmanlica": "قربان"
+          },
+          {
+            "latince": "PEYGAMBER",
+            "osmanlica": "پیغمبر"
+          },
+          {
+            "latince": "MİRAÇ",
+            "osmanlica": "معراج"
+          },
+          {
+            "latince": "OLAĞANÜSTÜ",
+            "osmanlica": "اولاغان أوستی"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "KERİM",
+          "osmanlica": "كریم"
+        },
+        "yasaklilar": [
+          {
+            "latince": "İKRAM",
+            "osmanlica": "اكرام"
+          },
+          {
+            "latince": "CÖMERT",
+            "osmanlica": "جومرد"
+          },
+          {
+            "latince": "NİMET",
+            "osmanlica": "نعمت"
+          },
+          {
+            "latince": "MÜLK",
+            "osmanlica": "ملك"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "SAMED",
+          "osmanlica": "صمد"
+        },
+        "yasaklilar": [
+          {
+            "latince": "MUHTAÇ",
+            "osmanlica": "محتاج"
+          },
+          {
+            "latince": "İHTİYAÇ",
+            "osmanlica": "احتیاج"
+          },
+          {
+            "latince": "ACİZ",
+            "osmanlica": "عاجز"
+          },
+          {
+            "latince": "TEK",
+            "osmanlica": "تك"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "MUCİB",
+          "osmanlica": "موجب"
+        },
+        "yasaklilar": [
+          {
+            "latince": "DUA",
+            "osmanlica": "دعا"
+          },
+          {
+            "latince": "İSTEK",
+            "osmanlica": "ایستك"
+          },
+          {
+            "latince": "KABUL",
+            "osmanlica": "قبول"
+          },
+          {
+            "latince": "KARŞILIK",
+            "osmanlica": "قارشیلق"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "KAVİYY",
+          "osmanlica": "قوی"
+        },
+        "yasaklilar": [
+          {
+            "latince": "KUDRET",
+            "osmanlica": "قدرت"
+          },
+          {
+            "latince": "GÜÇ",
+            "osmanlica": "كوچ"
+          },
+          {
+            "latince": "KUVVET",
+            "osmanlica": "قوت"
+          },
+          {
+            "latince": "ÜSTÜN",
+            "osmanlica": "أوستون"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "ADL",
+          "osmanlica": "عدل"
+        },
+        "yasaklilar": [
+          {
+            "latince": "ADALET",
+            "osmanlica": "عدالت"
+          },
+          {
+            "latince": "ADİL",
+            "osmanlica": "عادل"
+          },
+          {
+            "latince": "TERAZİ",
+            "osmanlica": "ترازو"
+          },
+          {
+            "latince": "KARŞILIK",
+            "osmanlica": "قارشیلق"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "RAHMAN",
+          "osmanlica": "رحمن"
+        },
+        "yasaklilar": [
+          {
+            "latince": "MERHAMET",
+            "osmanlica": "مرحمت"
+          },
+          {
+            "latince": "ŞEFKAT",
+            "osmanlica": "شفقت"
+          },
+          {
+            "latince": "ALLAH",
+            "osmanlica": "اللّٰه"
+          },
+          {
+            "latince": "RAHMET",
+            "osmanlica": "رحمت"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "CAMİ",
+          "osmanlica": "جامع"
+        },
+        "yasaklilar": [
+          {
+            "latince": "YER",
+            "osmanlica": "یر"
+          },
+          {
+            "latince": "TOPLAMAK",
+            "osmanlica": "طوپلامق"
+          },
+          {
+            "latince": "ZAMAN",
+            "osmanlica": "زمان"
+          },
+          {
+            "latince": "NAMAZ",
+            "osmanlica": "نماز"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "LATİF",
+          "osmanlica": "لطیف"
+        },
+        "yasaklilar": [
+          {
+            "latince": "LÜTUF",
+            "osmanlica": "لطف"
+          },
+          {
+            "latince": "İHSAN",
+            "osmanlica": "احسان"
+          },
+          {
+            "latince": "BİLEN",
+            "osmanlica": "بیلن"
+          },
+          {
+            "latince": "HABERDAR",
+            "osmanlica": "خبردار"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "MELİK",
+          "osmanlica": "ملك"
+        },
+        "yasaklilar": [
+          {
+            "latince": "MÜLK",
+            "osmanlica": "ملك"
+          },
+          {
+            "latince": "SAHİP",
+            "osmanlica": "صاحب"
+          },
+          {
+            "latince": "VARLIK",
+            "osmanlica": "وارلق"
+          },
+          {
+            "latince": "YARATILMIŞ",
+            "osmanlica": "یاراتیلمش"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "VEHHAB",
+          "osmanlica": "وهّاب"
+        },
+        "yasaklilar": [
+          {
+            "latince": "NİMET",
+            "osmanlica": "نعمت"
+          },
+          {
+            "latince": "KARŞILIKSIZ",
+            "osmanlica": "قارشیلقسز"
+          },
+          {
+            "latince": "RIZIK",
+            "osmanlica": "رزق"
+          },
+          {
+            "latince": "MÜLK",
+            "osmanlica": "ملك"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "SABUR",
+          "osmanlica": "صبور"
+        },
+        "yasaklilar": [
+          {
+            "latince": "SABIR",
+            "osmanlica": "صبر"
+          },
+          {
+            "latince": "ACELE ETMEYEN",
+            "osmanlica": "عجله ایتمه ین"
+          },
+          {
+            "latince": "CEZA",
+            "osmanlica": "جزا"
+          },
+          {
+            "latince": "AZAP",
+            "osmanlica": "عذاب"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "RAFİ",
+          "osmanlica": "رافع"
+        },
+        "yasaklilar": [
+          {
+            "latince": "ŞEREF",
+            "osmanlica": "شرف"
+          },
+          {
+            "latince": "YÜKSELTEN",
+            "osmanlica": "یوكسلتن"
+          },
+          {
+            "latince": "İZZET",
+            "osmanlica": "عزّت"
+          },
+          {
+            "latince": "YÜCE",
+            "osmanlica": "یوجه"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "BARİ",
+          "osmanlica": "باری"
+        },
+        "yasaklilar": [
+          {
+            "latince": "KUSURSUZ",
+            "osmanlica": "قصورسز"
+          },
+          {
+            "latince": "UYUMLU",
+            "osmanlica": "اویوملی"
+          },
+          {
+            "latince": "YARATAN",
+            "osmanlica": "یاراتان"
+          },
+          {
+            "latince": "MÜKEMMEL",
+            "osmanlica": "مكمّل"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "NUR",
+          "osmanlica": "نور"
+        },
+        "yasaklilar": [
+          {
+            "latince": "AYDINLIK",
+            "osmanlica": "آیدینلق"
+          },
+          {
+            "latince": "IŞIK",
+            "osmanlica": "ایشیق"
+          },
+          {
+            "latince": "NURLANDIRMAK",
+            "osmanlica": "نورلاندیرمق"
+          },
+          {
+            "latince": "GÜNEŞ",
+            "osmanlica": "كونش"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "KAHHAR",
+          "osmanlica": "قهّار"
+        },
+        "yasaklilar": [
+          {
+            "latince": "GÜÇ",
+            "osmanlica": "كوچ"
+          },
+          {
+            "latince": "HAKİM",
+            "osmanlica": "حاكم"
+          },
+          {
+            "latince": "GALİP",
+            "osmanlica": "غالب"
+          },
+          {
+            "latince": "ÜSTÜN",
+            "osmanlica": "أوستون"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "AZİZ",
+          "osmanlica": "عزیز"
+        },
+        "yasaklilar": [
+          {
+            "latince": "İZZETLİ",
+            "osmanlica": "عزتلی"
+          },
+          {
+            "latince": "GALİP",
+            "osmanlica": "غالب"
+          },
+          {
+            "latince": "YÜCE",
+            "osmanlica": "یوجه"
+          },
+          {
+            "latince": "ÜSTÜN",
+            "osmanlica": "أوستون"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "VEDUD",
+          "osmanlica": "ودود"
+        },
+        "yasaklilar": [
+          {
+            "latince": "SEVEN",
+            "osmanlica": "سون"
+          },
+          {
+            "latince": "SEVİLEN",
+            "osmanlica": "سویلن"
+          },
+          {
+            "latince": "KUL",
+            "osmanlica": "قول"
+          },
+          {
+            "latince": "MERHAMETLİ",
+            "osmanlica": "مرحمتلی"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "HAKEM",
+          "osmanlica": "حكم"
+        },
+        "yasaklilar": [
+          {
+            "latince": "HAK",
+            "osmanlica": "حقّ"
+          },
+          {
+            "latince": "HAKİM",
+            "osmanlica": "حاكم"
+          },
+          {
+            "latince": "HAKİMİYET",
+            "osmanlica": "حاكمیت"
+          },
+          {
+            "latince": "HÜKMEDEN",
+            "osmanlica": "حكم ایدن"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "BEDİ",
+          "osmanlica": "بدیع"
+        },
+        "yasaklilar": [
+          {
+            "latince": "EŞSİZ",
+            "osmanlica": "اشسز"
+          },
+          {
+            "latince": "BENZERSİZ",
+            "osmanlica": "بڭزرسز"
+          },
+          {
+            "latince": "YARATMAK",
+            "osmanlica": "یاراتمق"
+          },
+          {
+            "latince": "GÜZEL",
+            "osmanlica": "كوزل"
+          }
+        ]
+      },
+      {
+        "soru": {
+          "latince": "FETTAH",
+          "osmanlica": "فتّاح"
+        },
+        "yasaklilar": [
+          {
+            "latince": "SIKINTI",
+            "osmanlica": "صیقینتی"
+          },
+          {
+            "latince": "KOLAYLIK",
+            "osmanlica": "قولایلق"
+          },
+          {
+            "latince": "DARLIK",
+            "osmanlica": "دارلق"
+          },
+          {
+            "latince": "KURTARAN",
+            "osmanlica": "قورتاران"
+          }
+        ]
+      }
+    ]
+
+}
